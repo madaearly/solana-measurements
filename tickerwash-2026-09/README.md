@@ -53,7 +53,45 @@ dollar spent for every $278 printed.
 Two accounts per token receive a fee split exactly in half. They differ for every
 token, so they are not a shared protocol vault.
 
+## Preliminary: who
+
+`fleets.py` clusters the pools by the wallets that round-trip in them: two pools are
+joined when five or more of the same wallets round-trip in both, and the connected
+components are the fleets.
+
+**Fleet size is 20.** Twenty-two of the thirty pools have exactly twenty round-trip
+wallets; the rest have 10, 15, 16, 19 and one has 49. Of 260 round-trip wallets, **160
+appear in more than one pool.**
+
+| Fleet | Pools | Tickers | Wallets | Claimed 24h volume |
+|---|---|---|---|---|
+| 1 | 4 | $MSFT, AAPL, NIKE | 20 | $228,088,618 |
+| 2 | 4 | GOOGL, GOOGLE | 20 | $214,849,387 |
+| 3 | 4 | AAPL | 20 | $213,443,782 |
+| 4 | 3 | HOOD | 20 | $211,155,730 |
+| 5 | 1 | NVIDA | 20 | $153,213,665 |
+| 6 | 2 | LV, SPCX | 20 | $149,536,183 |
+| 7 | 2 | Anthropic, ClaudeAI | 20 | $139,620,496 |
+| 8 | 3 | OpenAI | 20 | $136,819,508 |
+| 9 | 1 | HOOD | 49 | $100,086,912 |
+| 10 | 2 | NVDA, TSLA | 10 | $84,892,294 |
+| 11 | 2 | Gemini AI, 牛来 | 15 | $75,190,426 |
+| 12 | 1 | TSLA | 10 | $45,307,116 |
+| 13 | 1 | b-money | 16 | $43,533,798 |
+
+So this is **not one operator**. It is thirteen separate fleets that do not share
+wallets with each other — and twenty-two of them are the same size to the wallet. Same
+tool, different hands, is the reading the data supports; it is not established here.
+
+Note that fleet 7 ran Anthropic and ClaudeAI together, and fleet 2 ran GOOGL and the
+misspelled GOOGLE together: one fleet takes a theme, not a ticker.
+
 ## Limits, stated before anyone asks
+
+**Fleet size is measured in the sampled window.** A fleet larger than the sample could
+not be fully resolved. One pool does resolve 49 distinct round-trip wallets, so the
+sample is not capped at 20, and twenty appearing in twenty-two separate samples is a
+property of the fleets rather than of the method — but it is a floor, not a ceiling.
 
 **The samples cover 0.39% of the claimed volume.** Each is the last 300 trades, usually
 30–180 seconds. The round-trip share is therefore measured *on that window*, and this
@@ -72,8 +110,9 @@ total reads $1.85bn and not $1.94bn.
 
 ## Open
 
-1. Whether one operator is behind all of them. The per-token fee accounts would have to
-   be traced to a funding source. Not done.
+1. Whether the thirteen fleets are independent operators or one operator running
+   thirteen wallet sets. They share no wallets, but shared funding would settle it, and
+   the per-token fee accounts have not been traced to a source. Not done.
 2. What those two fee accounts are in pumpswap's mechanics. **VERIFY CURRENTLY** —
    not checked, not assumed.
 3. Whether the sampled composition holds across the full 24 hours. It cannot be
