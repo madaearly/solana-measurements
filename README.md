@@ -18,6 +18,7 @@ The pre-registered experiment lives in its own repository:
 | [`hylo-2026-09`](hylo-2026-09) | 2026-09-14 | Hylo — hyUSD, sHYUSD, xSOL | $1,000 in each over the same 183 days: SOL $1,132, xSOL $707, hyUSD $999, sHYUSD $1,185 |
 | [`tickerwash-2026-09`](tickerwash-2026-09) | 2026-09-14 | 31 pumpswap pools named after real companies | $1,850,861,290 claimed in 24h against reserves of millionths of a cent; round-trips carry a median 99.8% of sampled volume |
 | [`jitosol-2026-09`](jitosol-2026-09) | 2026-09-15 | jitoSOL — the control | +5.74% a year in SOL terms, delivered as advertised; worth $26.08 on a thousand dollars |
+| [`xquote-2026-09`](xquote-2026-09) | 2026-09-15 | eleven memecoins priced in xSOL | over 116 days SOL rose 19.6% and xSOL 1.4% — 7.1% of the gain reached the levered holder; the hypothesis that the quote currency ate these positions did not survive |
 
 ## How to read anything in here
 
