@@ -1,0 +1,95 @@
+{
+ "captured_at": "2026-09-15T00:00:00Z",
+ "quote_asset": "xSOL",
+ "xsol_mint": "4sWNB8zGWHkh6UnmwiEtzNxL4XrN7uK9tosbESbJFfVs",
+ "pools": [
+  {
+   "ticker": "PERP",
+   "pool": "BMQSjcaDs6duyczC4ijZNtjm2ZKe33JwuUdSFYnS2Jww",
+   "dex": "meteora",
+   "created": "2026-05-20",
+   "liquidity_usd": 10930.86,
+   "volume_24h_usd": 149.84
+  },
+  {
+   "ticker": "USD2",
+   "pool": "7rXC4E9J87MQSMYN69VrU5t2Ax4uwVFQJ8p2TYfmP2YN",
+   "dex": "meteora",
+   "created": "2026-06-07",
+   "liquidity_usd": 82.77,
+   "volume_24h_usd": 1.13
+  },
+  {
+   "ticker": "LOOOONG",
+   "pool": "DXDvMEc5XjyNwDh883Fxw8S3WHfVPHfySHc8BLACyoNx",
+   "dex": "raydium",
+   "created": "2026-08-11",
+   "liquidity_usd": 31852.82,
+   "volume_24h_usd": 6018.84
+  },
+  {
+   "ticker": "LONGCAT",
+   "pool": "B6yV3u28qg9P2gHhwLCtWzEa1rfc1cwdNrWs2gDJoV7e",
+   "dex": "raydium",
+   "created": "2026-08-11",
+   "liquidity_usd": 11408.02,
+   "volume_24h_usd": 351.75
+  },
+  {
+   "ticker": "SOLDIERS",
+   "pool": "43UAj5khbzJCfDcNeqGub8FhrnA9BVyPLtJYHXM8nQuX",
+   "dex": "raydium",
+   "created": "2026-08-19",
+   "liquidity_usd": 18135.17,
+   "volume_24h_usd": 869.89
+  },
+  {
+   "ticker": "SLO",
+   "pool": "EhMTiGFhUYJAnsxNFokQFoZvmR6WagECG1vL2HeqyNmz",
+   "dex": "raydium",
+   "created": "2026-09-06",
+   "liquidity_usd": 9954.59,
+   "volume_24h_usd": 24580.95
+  },
+  {
+   "ticker": "LEVERCAT",
+   "pool": "CsjcF4mEmJsXZDWzBtuviVEV7JiKTY4NAJ1rdcHhVxi3",
+   "dex": "raydium",
+   "created": "2026-09-07",
+   "liquidity_usd": 145483.96,
+   "volume_24h_usd": 261833.79
+  },
+  {
+   "ticker": "LEVERDOG",
+   "pool": "8tRFpf9aRKQvZiChRoUu3K5jujuXNkknbXpnrP6Km6Jo",
+   "dex": "raydium",
+   "created": "2026-09-07",
+   "liquidity_usd": 11963.86,
+   "volume_24h_usd": 4348.86
+  },
+  {
+   "ticker": "SJ",
+   "pool": "Bt5aRtXZnbcXUySzhNab6Jzw8RJAPp8NvkR6NbbkNFAQ",
+   "dex": "orca",
+   "created": "2026-09-12",
+   "liquidity_usd": 1244.45,
+   "volume_24h_usd": 84.64
+  },
+  {
+   "ticker": "LBR",
+   "pool": "3hiCphwKNaZyC7iAxHXZ8xAmBFXZKXkTfWgy5ksZHrnL",
+   "dex": "orca",
+   "created": "2026-09-12",
+   "liquidity_usd": 391.75,
+   "volume_24h_usd": 53.19
+  },
+  {
+   "ticker": "LEVERPUP",
+   "pool": "7q2xUpUBjVkGxVyomFdwzAmb8Ccote6GnFM7ZwK1qB2J",
+   "dex": "meteoradbc",
+   "created": "2026-09-13",
+   "liquidity_usd": 0,
+   "volume_24h_usd": 0
+  }
+ ]
+}
