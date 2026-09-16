@@ -1,0 +1,6313 @@
+{
+ "mint": "4sWNB8zGWHkh6UnmwiEtzNxL4XrN7uK9tosbESbJFfVs",
+ "captured_at": "2026-09-16T11:09:13+00:00",
+ "source": "geckoterminal /pools, /trades, /ohlcv + dexscreener /tokens",
+ "token": {
+  "address": "4sWNB8zGWHkh6UnmwiEtzNxL4XrN7uK9tosbESbJFfVs",
+  "name": "xSOL",
+  "symbol": "xSOL"
+ },
+ "pools": [
+  {
+   "name": "xSOL / SOL",
+   "address": "coj59LYbLc6DhMwnxxfPc9mUiknjFSsW4XcuYw4DMPk",
+   "liquidity": 197715.2783,
+   "volume24": 697477.710806373,
+   "buys": 2720,
+   "sells": 2923,
+   "buyers": 1305,
+   "sellers": 1663,
+   "turnover": 3.5276874746526508,
+   "traded": true
+  },
+  {
+   "name": "xSOL / LEVERCAT",
+   "address": "CsjcF4mEmJsXZDWzBtuviVEV7JiKTY4NAJ1rdcHhVxi3",
+   "liquidity": 119582.8174,
+   "volume24": 292494.919500609,
+   "buys": 662,
+   "sells": 985,
+   "buyers": 441,
+   "sellers": 384,
+   "turnover": 2.445961099262485,
+   "traded": true
+  },
+  {
+   "name": "xSOL / USDC",
+   "address": "6t5fJwGxmTy2gWiq6CiLw2roZc93UanvANypMYQYHKGh",
+   "liquidity": 54048.2268,
+   "volume24": 66492.5009695362,
+   "buys": 359,
+   "sells": 276,
+   "buyers": 191,
+   "sellers": 212,
+   "turnover": 1.230243893395152,
+   "traded": true
+  },
+  {
+   "name": "xSOL / SOL",
+   "address": "9Ub2zeRCZg7UnTwH6kL9w9bYPpf35CaiJHFhjenVQhMd",
+   "liquidity": 53315.1856,
+   "volume24": 2537.7058828826,
+   "buys": 4,
+   "sells": 40,
+   "buyers": 2,
+   "sellers": 24,
+   "turnover": 0.04759818153728044,
+   "traded": true
+  },
+  {
+   "name": "xSOL / SOL",
+   "address": "EwGhoopqiijrQJQykZq2EZbUggibaEkiA54GMLt3LvGG",
+   "liquidity": 31825.0938,
+   "volume24": 18947.7761630368,
+   "buys": 187,
+   "sells": 169,
+   "buyers": 98,
+   "sellers": 125,
+   "turnover": 0.5953722016378409,
+   "traded": true
+  },
+  {
+   "name": "LOOOONG / xSOL",
+   "address": "DXDvMEc5XjyNwDh883Fxw8S3WHfVPHfySHc8BLACyoNx",
+   "liquidity": 22820.6472,
+   "volume24": 650.1214761819,
+   "buys": 16,
+   "sells": 1,
+   "buyers": 15,
+   "sellers": 1,
+   "turnover": 0.02848830142652133,
+   "traded": true
+  },
+  {
+   "name": "WYPE / xSOL",
+   "address": "FTeWTDUY3sTKy5T4QHPcQ3HooR9QW3ftPJBgGajjEy36",
+   "liquidity": 11529.1891,
+   "volume24": 63.9120462109,
+   "buys": 5,
+   "sells": 24,
+   "buyers": 4,
+   "sellers": 9,
+   "turnover": 0.005543498823425492,
+   "traded": true
+  },
+  {
+   "name": "PERP / xSOL",
+   "address": "BMQSjcaDs6duyczC4ijZNtjm2ZKe33JwuUdSFYnS2Jww",
+   "liquidity": 9352.6625,
+   "volume24": 264.2916252768,
+   "buys": 6,
+   "sells": 12,
+   "buyers": 6,
+   "sellers": 6,
+   "turnover": 0.028258437132399464,
+   "traded": true
+  },
+  {
+   "name": "xSOL / USDC",
+   "address": "FApEhj9cVwkL1m8icrg7Kuo79jv3xSCKhXRhH3z7x8c4",
+   "liquidity": 6797.6004,
+   "volume24": 1874.13583984,
+   "buys": 41,
+   "sells": 103,
+   "buyers": 35,
+   "sellers": 69,
+   "turnover": 0.2757055033479167,
+   "traded": true
+  },
+  {
+   "name": "xSOL / LEVERDOG",
+   "address": "8tRFpf9aRKQvZiChRoUu3K5jujuXNkknbXpnrP6Km6Jo",
+   "liquidity": 5855.531,
+   "volume24": 2554.2253857668,
+   "buys": 15,
+   "sells": 9,
+   "buyers": 15,
+   "sellers": 5,
+   "turnover": 0.43620730310655004,
+   "traded": true
+  },
+  {
+   "name": "xSOL / SOL",
+   "address": "4t4jxqQMdHtcFwJxK5TWntMkBDWw85M982CiC6a3UcHg",
+   "liquidity": 5771.8694,
+   "volume24": 308.3751950727,
+   "buys": 6,
+   "sells": 0,
+   "buyers": 6,
+   "sellers": 0,
+   "turnover": 0.05342726484294673,
+   "traded": true
+  },
+  {
+   "name": "xSOL / LAMPORT",
+   "address": "4tEjvBuxpvFmSK7uKtBN3QALaxMKiMVRj8wZFnDo4RxU",
+   "liquidity": 5485.8912,
+   "volume24": 1349.8265218515,
+   "buys": 15,
+   "sells": 4,
+   "buyers": 10,
+   "sellers": 3,
+   "turnover": 0.2460541911315157,
+   "traded": true
+  },
+  {
+   "name": "xSOL / SCAT",
+   "address": "xsVtV8h1xmB8SskSFjDJH3TujnCW6uLznsnMHjza14m",
+   "liquidity": 5256.8741,
+   "volume24": 815.1016614189,
+   "buys": 16,
+   "sells": 7,
+   "buyers": 15,
+   "sellers": 7,
+   "turnover": 0.15505443841976357,
+   "traded": true
+  },
+  {
+   "name": "SLO / xSOL",
+   "address": "EhMTiGFhUYJAnsxNFokQFoZvmR6WagECG1vL2HeqyNmz",
+   "liquidity": 4930.8394,
+   "volume24": 7432.7139865513,
+   "buys": 89,
+   "sells": 58,
+   "buyers": 69,
+   "sellers": 46,
+   "turnover": 1.5073932415140716,
+   "traded": true
+  },
+  {
+   "name": "xSOL / SAFEMOON",
+   "address": "4qnWyvRf9WUE2VqQFRfquXJsDxJcaxGJH66jpbbBZiie",
+   "liquidity": 4219.1418,
+   "volume24": 68.5276100903,
+   "buys": 1,
+   "sells": 0,
+   "buyers": 1,
+   "sellers": 0,
+   "turnover": 0.016242073231646302,
+   "traded": true
+  },
+  {
+   "name": "xSOL / FAUCET",
+   "address": "6Kvf3u7yV8H66mBC6Xc5vTFb44YZthxa6GE1Xk6mrLLc",
+   "liquidity": 3918.6054,
+   "volume24": 236.2248117796,
+   "buys": 6,
+   "sells": 8,
+   "buyers": 6,
+   "sellers": 5,
+   "turnover": 0.06028287813302151,
+   "traded": true
+  },
+  {
+   "name": "xSOL / SSE",
+   "address": "AS9jKUmB9y1S6oHiihfRjuahxGi77aFG3SYCyiencAvx",
+   "liquidity": 3595.6714,
+   "volume24": 205.5185150477,
+   "buys": 4,
+   "sells": 0,
+   "buyers": 4,
+   "sellers": 0,
+   "turnover": 0.05715720158624617,
+   "traded": true
+  },
+  {
+   "name": "SDOG / xSOL",
+   "address": "7txuFsKM6meuSjkEh3DbmVaU3EL2FXMGYW8orUhRP5pK",
+   "liquidity": 3564.9033,
+   "volume24": 178.6093566146,
+   "buys": 22,
+   "sells": 2,
+   "buyers": 14,
+   "sellers": 2,
+   "turnover": 0.050102160306732584,
+   "traded": true
+  },
+  {
+   "name": "xSOL / JUP",
+   "address": "6yYPySkdrVaFu7rYAVkcJJhtrUxLvmq4XBkafk54nwqW",
+   "liquidity": 2700.1861,
+   "volume24": 478.5346145414,
+   "buys": 51,
+   "sells": 40,
+   "buyers": 27,
+   "sellers": 32,
+   "turnover": 0.17722282717528248,
+   "traded": true
+  },
+  {
+   "name": "xSOL / SOL",
+   "address": "Gc7JmCgTDyE54ux1GnchJtgLMHyQfgcEMFqwiittVdXS",
+   "liquidity": 357.6647,
+   "volume24": 18151.4724426514,
+   "buys": 809,
+   "sells": 680,
+   "buyers": 328,
+   "sellers": 451,
+   "turnover": 50.74996901469841,
+   "traded": true
+  }
+ ],
+ "trades": [
+  {
+   "ts": "2026-09-16T07:46:54Z",
+   "side": "sell",
+   "usd": 2.2395829192155015,
+   "wallet": "ADwfrwcpxPdbVw6Hi9cJ8acFPreqanjfYY7siBmJNekS",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:47:34Z",
+   "side": "sell",
+   "usd": 131.33102810387686,
+   "wallet": "4GLm1M7nhwZCo7A88jdDZoWfKvN3KAyRDMpAnHUhQjWF",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:47:34Z",
+   "side": "buy",
+   "usd": 130.44325952148745,
+   "wallet": "4GLm1M7nhwZCo7A88jdDZoWfKvN3KAyRDMpAnHUhQjWF",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T07:47:52Z",
+   "side": "sell",
+   "usd": 59.49052135030384,
+   "wallet": "2u1ooSwe8fjs137gxTQRgM5YDjnJ8kfFuRJJw4i4dtiM",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:48:04Z",
+   "side": "buy",
+   "usd": 48.74391392999602,
+   "wallet": "2u1ooSwe8fjs137gxTQRgM5YDjnJ8kfFuRJJw4i4dtiM",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:48:04Z",
+   "side": "sell",
+   "usd": 57.68211305454117,
+   "wallet": "2u1ooSwe8fjs137gxTQRgM5YDjnJ8kfFuRJJw4i4dtiM",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T07:48:04Z",
+   "side": "buy",
+   "usd": 9.334799102712063,
+   "wallet": "2u1ooSwe8fjs137gxTQRgM5YDjnJ8kfFuRJJw4i4dtiM",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T07:48:05Z",
+   "side": "buy",
+   "usd": 71.95766236228165,
+   "wallet": "EwoZMHUNDRNrAgG5WEMMKMfgEQn2paQ6oT7QZtoK2mLd",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:48:05Z",
+   "side": "sell",
+   "usd": 71.39479331070868,
+   "wallet": "EwoZMHUNDRNrAgG5WEMMKMfgEQn2paQ6oT7QZtoK2mLd",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T07:48:22Z",
+   "side": "sell",
+   "usd": 36.59455093156132,
+   "wallet": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:48:22Z",
+   "side": "buy",
+   "usd": 36.29168866737143,
+   "wallet": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T07:50:08Z",
+   "side": "sell",
+   "usd": 3.6330590561335616,
+   "wallet": "6kGj9GXwTRdTESc1NBALdH6wL97h39wdhwsM7eaYNXpd",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:50:21Z",
+   "side": "buy",
+   "usd": 289.17604248760796,
+   "wallet": "6caQasnFLDWRHZv15Nr6wjrQyfBFq2XuzCVfYEzVbvVw",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:50:21Z",
+   "side": "sell",
+   "usd": 286.01932039079423,
+   "wallet": "6caQasnFLDWRHZv15Nr6wjrQyfBFq2XuzCVfYEzVbvVw",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T07:51:10Z",
+   "side": "sell",
+   "usd": 25.768613521666822,
+   "wallet": "DjBcGZ9WGWUrcDz5bCLs9NYVzCKGakiLS7gYcmQub53N",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:51:15Z",
+   "side": "sell",
+   "usd": 6.16346381379527,
+   "wallet": "8E2nDAW7whqUR9evmVMoPWXXVqaNhwwz5HJJCeWRQaXh",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:52:18Z",
+   "side": "sell",
+   "usd": 49.58397388680216,
+   "wallet": "3MipB7G8MiuCVNnyoW7hDmEvncvzTWaAo6N32m3oYJJs",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:53:06Z",
+   "side": "sell",
+   "usd": 3.8542187655523223,
+   "wallet": "C9vxhEKiKAT7rTF4emQRCCfw3boGGHW3dfqZF4DRwAfp",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:53:24Z",
+   "side": "sell",
+   "usd": 75.12564077441675,
+   "wallet": "4wNafEgMAVXZGxyUDJtAMsnU42Un3iZKgWLb8N33z72y",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:54:33Z",
+   "side": "sell",
+   "usd": 3.9213977783611838,
+   "wallet": "HfCEsLk9WUbfN8PRyhzMExRJaevYCbWNEJR4pWHJEiQb",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:55:24Z",
+   "side": "sell",
+   "usd": 3.5989997570798886,
+   "wallet": "3V2P1HydgJCg4RcjKK3PQ3vhvpoh3jFbtAjBLHGvqSCs",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T07:57:00Z",
+   "side": "sell",
+   "usd": 0.5048258205180076,
+   "wallet": "FLJaiEgE1tJ3ZHtSY4DrK3z3q2ptbaH2hyVk7x5CTBXx",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:58:35Z",
+   "side": "sell",
+   "usd": 153.28891733001592,
+   "wallet": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:59:06Z",
+   "side": "sell",
+   "usd": 20.797511090956725,
+   "wallet": "3Q4sqfNSB6KCY4KZfj68hSVpQoZPBPGQuNdxrXubZjV4",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:59:18Z",
+   "side": "sell",
+   "usd": 3.9830536216093755,
+   "wallet": "95X5P34bMxyCUsYaDgT73TE8eWS47RWf1xM15KLPnAUH",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:59:24Z",
+   "side": "buy",
+   "usd": 117.76403942781296,
+   "wallet": "4QWvEDZDqfvmfhgQhkU1Ct9WYtuBxzZ7ssFGfrowSqky",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T07:59:24Z",
+   "side": "sell",
+   "usd": 116.77121876232418,
+   "wallet": "4QWvEDZDqfvmfhgQhkU1Ct9WYtuBxzZ7ssFGfrowSqky",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T08:00:33Z",
+   "side": "sell",
+   "usd": 0.384182495791313,
+   "wallet": "HiwbTg99DvtBGnLQdi8B13qFhGbxcPH3V4RWZZwSJQ3c",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:00:57Z",
+   "side": "buy",
+   "usd": 492.4559103274913,
+   "wallet": "FvLgucDoeapn3bVKBQ7XXKeUvCQqY5TiTRx459YtVLwX",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:00:57Z",
+   "side": "sell",
+   "usd": 489.41756419481317,
+   "wallet": "FvLgucDoeapn3bVKBQ7XXKeUvCQqY5TiTRx459YtVLwX",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T08:01:14Z",
+   "side": "sell",
+   "usd": 325.5716784801438,
+   "wallet": "5MztePcdvyzJr4Dd1Wj15scXEeddst1sMp759aNWf7gm",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:01:58Z",
+   "side": "sell",
+   "usd": 5.898083490742401,
+   "wallet": "HfzQUJEXAGAuASQuwMnp1i6oMstK5dBbcjnB6pMhtwYM",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:02:47Z",
+   "side": "sell",
+   "usd": 0.2948840987641993,
+   "wallet": "8anubgcz49885zxcYqgMjMJoddhdxy9evySW2UpbQMdW",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:03:42Z",
+   "side": "sell",
+   "usd": 199.05513183929003,
+   "wallet": "3EGiRjSeTz1o8wKfqYb6wREYkutGsu9NNdg2iJLEAKvD",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:03:44Z",
+   "side": "buy",
+   "usd": 8.44195875616207,
+   "wallet": "7k5WLRVYcMCg6LFXLrhFs8656HWyQkfi9UjmDbnniQdh",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:05:23Z",
+   "side": "sell",
+   "usd": 21.80422164353598,
+   "wallet": "goodfTa7hHEK3G9dWppbobf8jsRZRB2foTKDWMuNNTN",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:05:49Z",
+   "side": "sell",
+   "usd": 21.725291156383978,
+   "wallet": "goodu4F4uxXSvh62HsAfVTZhxFZmwyjtsC9h7xokSxt",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:06:38Z",
+   "side": "sell",
+   "usd": 21.67163865080657,
+   "wallet": "goodfTa7hHEK3G9dWppbobf8jsRZRB2foTKDWMuNNTN",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:06:44Z",
+   "side": "sell",
+   "usd": 2.3077905283807314,
+   "wallet": "FUEL3Te8gvaohxwQMapfMTeJVHh2z1BL9fvTCcHZeYEh",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:07:30Z",
+   "side": "sell",
+   "usd": 21.782571909736998,
+   "wallet": "goodfTa7hHEK3G9dWppbobf8jsRZRB2foTKDWMuNNTN",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:07:55Z",
+   "side": "sell",
+   "usd": 21.6347721643145,
+   "wallet": "goodu4F4uxXSvh62HsAfVTZhxFZmwyjtsC9h7xokSxt",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:09:27Z",
+   "side": "sell",
+   "usd": 14.151651629746212,
+   "wallet": "BAnn7miHk5WM8zecP5Wf2Qz5sUukBVgi8X2GePaKEUh8",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:10:50Z",
+   "side": "sell",
+   "usd": 21.88518101824537,
+   "wallet": "goodRTLNjkFbP8WmAxPeutixwftKtyM84X37RmZjkss",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:11:43Z",
+   "side": "sell",
+   "usd": 27.622860985853524,
+   "wallet": "DMRWi5N6bxEKkhguQhoUYfLqgJiBnJnDdP7tActitSn7",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:13:10Z",
+   "side": "sell",
+   "usd": 9.030588026947546,
+   "wallet": "7EZRZWEgk6zPkzoeTdtyPB9kLdkLVoC6BUSRH99ffFuu",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:13:19Z",
+   "side": "sell",
+   "usd": 3.747354924462559,
+   "wallet": "3aBCzWtS8yjb8vX8ZjmqEvRsBNckANUgyeZQfgvSsXgB",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:14:40Z",
+   "side": "sell",
+   "usd": 14.328575865066727,
+   "wallet": "ETmW1BDdXJ8SnEcXm6bvwSpmA8BwuLaACgBCFe5zvhnG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:15:45Z",
+   "side": "sell",
+   "usd": 42.47283305994909,
+   "wallet": "EVB9oDBj1KsgURPywX9Rb6AGaW5WpRDYwzfy6LmhUjMC",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:17:06Z",
+   "side": "sell",
+   "usd": 15.631047608209963,
+   "wallet": "DWneSEaGXtg8tn5FmH6nR3jbvz9SDTVRC1Wz6gKQfdA5",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:17:06Z",
+   "side": "sell",
+   "usd": 87.67038660038273,
+   "wallet": "3uYo5Gp8preHycLLCvRkGop71wcGN7qQ1okoFizNFcjT",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:17:43Z",
+   "side": "sell",
+   "usd": 3.9951861058184974,
+   "wallet": "D9GEFKo4rD7JiSR4jvkM3AtqkYcmLcbZdQmPL8SrS5GY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:18:38Z",
+   "side": "sell",
+   "usd": 0.06285136776119687,
+   "wallet": "FFhMPr27zkhh38doV5H5LoqLqCLqkNSvgDKp1ic93YF6",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:18:38Z",
+   "side": "sell",
+   "usd": 0.0627408870112118,
+   "wallet": "BsMrDCty85pwAGEnUyRhD7NPFhDaVSQTv61LVWcNMAEX",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:18:38Z",
+   "side": "sell",
+   "usd": 9.909991334708232,
+   "wallet": "rH63PqMD5sohKdSDp1uKmN2dxHJZLq2xnmwgyN6kSLb",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:20:15Z",
+   "side": "sell",
+   "usd": 0.568986653353862,
+   "wallet": "BZbqHUrT7cnF3iJupVzUhjcrYfWCDiBpFSG84BiDWbDf",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:21:29Z",
+   "side": "sell",
+   "usd": 2.4632648086080056,
+   "wallet": "4exXcemu9Z3AU9kccaJRUERrCMdysCzb2homvTRa9Xo7",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:22:57Z",
+   "side": "sell",
+   "usd": 12.391220645611874,
+   "wallet": "3A5iWLFSMhdE7zSnfxpigPPcaWS3BufFAi338uC5Xz1w",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:25:52Z",
+   "side": "buy",
+   "usd": 0.46247458157586435,
+   "wallet": "GxDC9e7SP9mzhDo4re5HbpLa2RW7gB9DtmThx4i4pXSq",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:26:03Z",
+   "side": "buy",
+   "usd": 0.46361546367136414,
+   "wallet": "DcQNaByvstRZCERvb9UJHgHiQe8YX2FMdPptM86psQyz",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:26:03Z",
+   "side": "buy",
+   "usd": 0.4636245803489672,
+   "wallet": "7nwPXZNhBj88jcC22VNBQUYLohTsQWh5VGxWqnAAcvMf",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:26:04Z",
+   "side": "buy",
+   "usd": 10.561694308110178,
+   "wallet": "7Xw7qWdVcNSMuYNMcujFxXsXE1MPFp8eUtBom2vHjvuv",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:27:22Z",
+   "side": "buy",
+   "usd": 47.88568882509408,
+   "wallet": "BrnwRA6GBVDGj8vzw8UUkmQXHsxVMwXGGugTBh2KJ64q",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:27:22Z",
+   "side": "sell",
+   "usd": 47.80328328660087,
+   "wallet": "BrnwRA6GBVDGj8vzw8UUkmQXHsxVMwXGGugTBh2KJ64q",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T08:27:55Z",
+   "side": "sell",
+   "usd": 9.53006285195295,
+   "wallet": "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:28:32Z",
+   "side": "sell",
+   "usd": 100.61404149597685,
+   "wallet": "9gk3DNFBkTh4UTjatkdzsPkgbAMmrFEFp3Lftj6Ckt5k",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:28:40Z",
+   "side": "sell",
+   "usd": 0.6964294883874219,
+   "wallet": "78Bo7xxGWBEvqbh3VMKvkFG4Z63cXKSJ2LCEXAanhN7a",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:30:20Z",
+   "side": "sell",
+   "usd": 2.0110665276083672,
+   "wallet": "FpatYQm1HtDxsdRKb8okmecCii1rHnvicghLz292heRJ",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:17Z",
+   "side": "sell",
+   "usd": 21.760635094318918,
+   "wallet": "goodu4F4uxXSvh62HsAfVTZhxFZmwyjtsC9h7xokSxt",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:39Z",
+   "side": "buy",
+   "usd": 58.055333941781406,
+   "wallet": "H6PjRLnqGPz5VEU4roZzKnfJRxKECRzYuJAZ2Hvc1rAc",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:39Z",
+   "side": "buy",
+   "usd": 38.703555961187604,
+   "wallet": "C5EMTGGE87SqLyuvhShLDMj2jUBwqBLJAZF6ybK8Jyqw",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:39Z",
+   "side": "buy",
+   "usd": 32.509879698661535,
+   "wallet": "9su3UPQW3txjtKDZAkf2Kdimp5tEb9TM6hnJrGC1U7pY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:40Z",
+   "side": "sell",
+   "usd": 38.47106544218876,
+   "wallet": "C5EMTGGE87SqLyuvhShLDMj2jUBwqBLJAZF6ybK8Jyqw",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:41Z",
+   "side": "sell",
+   "usd": 54.39450943147085,
+   "wallet": "H6PjRLnqGPz5VEU4roZzKnfJRxKECRzYuJAZ2Hvc1rAc",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:41Z",
+   "side": "sell",
+   "usd": 30.2744767721101,
+   "wallet": "9su3UPQW3txjtKDZAkf2Kdimp5tEb9TM6hnJrGC1U7pY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:42Z",
+   "side": "buy",
+   "usd": 23.947825250984828,
+   "wallet": "3AxsF6zkanJX3NQo9851K8eJbehmEnD9emARyzpvFpVP",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:42Z",
+   "side": "buy",
+   "usd": 1.9158260200787864,
+   "wallet": "EGhfLeHJRZf8cafTbe5PXkCmUjjvWbbjntQZoR3wVkrf",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:43Z",
+   "side": "sell",
+   "usd": 663.0846683319057,
+   "wallet": "AV7PjXHL5JXZ1YoYRoN9Dsstg1x2UciBupMCXcJP8gUz",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:47Z",
+   "side": "sell",
+   "usd": 1.2083504646963212,
+   "wallet": "EGhfLeHJRZf8cafTbe5PXkCmUjjvWbbjntQZoR3wVkrf",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:48Z",
+   "side": "sell",
+   "usd": 15.125728674203865,
+   "wallet": "3AxsF6zkanJX3NQo9851K8eJbehmEnD9emARyzpvFpVP",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:57Z",
+   "side": "sell",
+   "usd": 503.5058140326159,
+   "wallet": "Bdrs3hKcEe4PpM91risoYm5YKceQ7tsaovs4otog6HBz",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:31:57Z",
+   "side": "buy",
+   "usd": 534.996723919883,
+   "wallet": "Bdrs3hKcEe4PpM91risoYm5YKceQ7tsaovs4otog6HBz",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T08:32:10Z",
+   "side": "buy",
+   "usd": 4.98468641427537,
+   "wallet": "Cym9FuokHbx4mtsZGfwbLEANwQq2f43wSsudRCdwcojV",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:32:18Z",
+   "side": "buy",
+   "usd": 50.09023399730671,
+   "wallet": "2tWW1kEUpZnw1gotNcFQJfT6pihRBpnrYPPwZ6HvHCec",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:32:51Z",
+   "side": "sell",
+   "usd": 4.735987162918404,
+   "wallet": "Cym9FuokHbx4mtsZGfwbLEANwQq2f43wSsudRCdwcojV",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:33:31Z",
+   "side": "sell",
+   "usd": 13.378283989918666,
+   "wallet": "12Y71zSFTm234tcC8THsWWqeTCPpLKnJK2uSjTcLgyRB",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:35:33Z",
+   "side": "buy",
+   "usd": 0.03871659791311272,
+   "wallet": "FUEL3Te8gvaohxwQMapfMTeJVHh2z1BL9fvTCcHZeYEh",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:35:33Z",
+   "side": "sell",
+   "usd": 114.13184806892171,
+   "wallet": "HvYK3PHiza8xZh8gEx3io1oUuePRwrazsFjN9F62MspD",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:36:51Z",
+   "side": "sell",
+   "usd": 101.57908383899934,
+   "wallet": "458aGtmE9UzRhA94hz743NyRv8p7zxNbjcgxV1m8Ukre",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:37:15Z",
+   "side": "sell",
+   "usd": 1.6916932639432596,
+   "wallet": "rLsi2DPwRLovHzLV5XYxa8B597bv8w8nX7fZHJJf8uy",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:37:21Z",
+   "side": "sell",
+   "usd": 11.35528002791275,
+   "wallet": "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:38:02Z",
+   "side": "buy",
+   "usd": 5.499547468039881,
+   "wallet": "7XH3sV5PqaPW3DJ55c5xC3fFNWJaY4yMBibHZpES5CXw",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:38:02Z",
+   "side": "sell",
+   "usd": 5.461771700625207,
+   "wallet": "7XH3sV5PqaPW3DJ55c5xC3fFNWJaY4yMBibHZpES5CXw",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T08:38:25Z",
+   "side": "sell",
+   "usd": 84.52504564949525,
+   "wallet": "9gk3DNFBkTh4UTjatkdzsPkgbAMmrFEFp3Lftj6Ckt5k",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:38:25Z",
+   "side": "sell",
+   "usd": 1.8814669438773748,
+   "wallet": "DMRWi5N6bxEKkhguQhoUYfLqgJiBnJnDdP7tActitSn7",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:38:54Z",
+   "side": "buy",
+   "usd": 808.856753291456,
+   "wallet": "HjwJmEvic5igeCqvzog3mF1b1Rjd3haWasdfCASzXKo2",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:38:54Z",
+   "side": "sell",
+   "usd": 803.0320349091386,
+   "wallet": "HjwJmEvic5igeCqvzog3mF1b1Rjd3haWasdfCASzXKo2",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T08:39:47Z",
+   "side": "sell",
+   "usd": 112.15031221888718,
+   "wallet": "DrDq7dzeAuZwzA8WG6za9zD7u8KDdx5f53vRYcVJn1uX",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:39:50Z",
+   "side": "sell",
+   "usd": 1.4173310220927093,
+   "wallet": "R32xAccFis3YzBzGwZ1C4QkGiehLxSao7gDmErA3kjk",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:40:06Z",
+   "side": "sell",
+   "usd": 435.99522951644184,
+   "wallet": "4PWaksfn9uM2c5oHQQ16odCazKp3KkLMD4Bhtmg5qCVg",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:41:22Z",
+   "side": "buy",
+   "usd": 58.18916405940756,
+   "wallet": "BeFdjY7E4buEXoq8jYqqKPhk92NNanbmtj6cdivbeff3",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:42:29Z",
+   "side": "sell",
+   "usd": 156.41772484108498,
+   "wallet": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:43:45Z",
+   "side": "sell",
+   "usd": 0.7244018266319597,
+   "wallet": "DB6GQTiFqZa7nJDW2Evj4QF3joBeQRPVVhfhf16UL6mL",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:44:45Z",
+   "side": "sell",
+   "usd": 54.732301505864896,
+   "wallet": "GFxs64qmJerhLzzJR5E6y6rTU1N6NP1uSTUrHbwYegzh",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:46:01Z",
+   "side": "buy",
+   "usd": 27.689779139175275,
+   "wallet": "9425Myzns5n1h4KYQyRK6A67b8AcY1xYMLyva3ECeDb9",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:46:01Z",
+   "side": "sell",
+   "usd": 27.510330861713758,
+   "wallet": "9425Myzns5n1h4KYQyRK6A67b8AcY1xYMLyva3ECeDb9",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T08:49:18Z",
+   "side": "buy",
+   "usd": 17.465727885507782,
+   "wallet": "EveFik54NecvuuF7Yzn1BoiJVzkG7sRAbKy2C2R5ReBm",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:50:59Z",
+   "side": "buy",
+   "usd": 1307.304026920423,
+   "wallet": "FNKf7DmvU3hkbtpLDw1LctZ63Cou6Nte9cPSsayKmdtZ",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:50:59Z",
+   "side": "sell",
+   "usd": 1305.6946349439945,
+   "wallet": "FNKf7DmvU3hkbtpLDw1LctZ63Cou6Nte9cPSsayKmdtZ",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T08:51:16Z",
+   "side": "sell",
+   "usd": 4.256395099651997,
+   "wallet": "5UYStaugckZXiWqiyj41cAY6iQHJWRcUi12716GKUc3W",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:53:42Z",
+   "side": "sell",
+   "usd": 280.77093178260645,
+   "wallet": "HvFdDWS3RqymRAVx1ZdoL2RjiC38r5dtt19Z8op5jqDK",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:53:42Z",
+   "side": "sell",
+   "usd": 18.918159713996037,
+   "wallet": "AaPc5Brm7MdbujLTUdTkx8ytjK9KEKXD1ZoLKTZH6jnn",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:53:42Z",
+   "side": "buy",
+   "usd": 1152.201050514002,
+   "wallet": "5UYStaugckZXiWqiyj41cAY6iQHJWRcUi12716GKUc3W",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T08:53:42Z",
+   "side": "buy",
+   "usd": 279.397153919516,
+   "wallet": "HvFdDWS3RqymRAVx1ZdoL2RjiC38r5dtt19Z8op5jqDK",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T08:53:42Z",
+   "side": "buy",
+   "usd": 18.82816622889768,
+   "wallet": "AaPc5Brm7MdbujLTUdTkx8ytjK9KEKXD1ZoLKTZH6jnn",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T08:53:42Z",
+   "side": "sell",
+   "usd": 1095.5746336725656,
+   "wallet": "5UYStaugckZXiWqiyj41cAY6iQHJWRcUi12716GKUc3W",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T08:54:22Z",
+   "side": "sell",
+   "usd": 3.3867375092167427,
+   "wallet": "Ekj27YyXdfLAsJCmCTEug3arxNGtcYi3hbPkfMGd2wc5",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:54:47Z",
+   "side": "buy",
+   "usd": 4.9832689785982485,
+   "wallet": "Ekj27YyXdfLAsJCmCTEug3arxNGtcYi3hbPkfMGd2wc5",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:54:47Z",
+   "side": "sell",
+   "usd": 4.951226052285169,
+   "wallet": "Ekj27YyXdfLAsJCmCTEug3arxNGtcYi3hbPkfMGd2wc5",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T08:54:49Z",
+   "side": "sell",
+   "usd": 17.52912014549041,
+   "wallet": "5hh7UE6i2BtyCvaMMadS71wFwK88JRmtRTfXkjZ3CHvF",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:55:24Z",
+   "side": "sell",
+   "usd": 1.0544216648598204,
+   "wallet": "R32xAccFis3YzBzGwZ1C4QkGiehLxSao7gDmErA3kjk",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:55:29Z",
+   "side": "sell",
+   "usd": 26.770834990370684,
+   "wallet": "6SmqcWKkyMkL9VC76uGHvkXuUUdUmtt7fD6XQBgr5bNh",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:56:23Z",
+   "side": "sell",
+   "usd": 1.588934973878399,
+   "wallet": "HU3bsSLMoJRzREe2qakCgrFpXky6NH2xpa3AfQfh1MaG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:58:04Z",
+   "side": "sell",
+   "usd": 22.89844739172233,
+   "wallet": "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:58:21Z",
+   "side": "sell",
+   "usd": 12.333659306431493,
+   "wallet": "95L5dxG1WEnoGe8HPTqD2QyAfwNz59iGEKqgGPhq73UV",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T08:59:01Z",
+   "side": "buy",
+   "usd": 0.012098781345654896,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:00:07Z",
+   "side": "buy",
+   "usd": 22.074816142381582,
+   "wallet": "goodRTLNjkFbP8WmAxPeutixwftKtyM84X37RmZjkss",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:00:12Z",
+   "side": "buy",
+   "usd": 24.165359183355328,
+   "wallet": "64BCLCVheeQaYycxMeA5tip36AXUgFUdVpdsJbBdKLW8",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:00:17Z",
+   "side": "buy",
+   "usd": 0.014308545241941717,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:00:21Z",
+   "side": "sell",
+   "usd": 45.92149301143898,
+   "wallet": "3qE6wmLCWya2g4BbXeGM65aEU8oV3a97tDAzSuRQd2sz",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:00:21Z",
+   "side": "buy",
+   "usd": 48.636486944595404,
+   "wallet": "3qE6wmLCWya2g4BbXeGM65aEU8oV3a97tDAzSuRQd2sz",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:00:25Z",
+   "side": "sell",
+   "usd": 52.61566399375105,
+   "wallet": "HGjvvRoLatgcsAzuHEMEDeVq7s9riWFuD8ABkxB9SHXe",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:00:25Z",
+   "side": "sell",
+   "usd": 31.344095694346382,
+   "wallet": "GW9Bp67tkr2TX8N5z3wsPcfUo4gCp7zgJwMVjX1VVX3v",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:00:25Z",
+   "side": "buy",
+   "usd": 55.87693711365516,
+   "wallet": "HGjvvRoLatgcsAzuHEMEDeVq7s9riWFuD8ABkxB9SHXe",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:00:25Z",
+   "side": "buy",
+   "usd": 33.23966003994308,
+   "wallet": "GW9Bp67tkr2TX8N5z3wsPcfUo4gCp7zgJwMVjX1VVX3v",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:00:45Z",
+   "side": "sell",
+   "usd": 23.59717281355216,
+   "wallet": "Dd5SApUhbx8duukubWvMmzz6iB4wNSyx8Y41xSEMU46T",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:00:45Z",
+   "side": "buy",
+   "usd": 25.11099149958363,
+   "wallet": "Dd5SApUhbx8duukubWvMmzz6iB4wNSyx8Y41xSEMU46T",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:01:06Z",
+   "side": "buy",
+   "usd": 0.005617909178135672,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:01:09Z",
+   "side": "sell",
+   "usd": 0.24713145718594104,
+   "wallet": "HAWK3BVnwptKRFYfVoVGhBc2TYxpyG9jmAbkHeW9tyKE",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:02:41Z",
+   "side": "buy",
+   "usd": 10.031406989535533,
+   "wallet": "DzmWdQnKYpLYqZPPtAXMeEdJmNrzqjUiugZU37i8yof",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:03:33Z",
+   "side": "buy",
+   "usd": 19.978415623229278,
+   "wallet": "7k5WLRVYcMCg6LFXLrhFs8656HWyQkfi9UjmDbnniQdh",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:03:51Z",
+   "side": "buy",
+   "usd": 0.04725985712634385,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:04:03Z",
+   "side": "buy",
+   "usd": 10.401952799802523,
+   "wallet": "7k5WLRVYcMCg6LFXLrhFs8656HWyQkfi9UjmDbnniQdh",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:04:09Z",
+   "side": "sell",
+   "usd": 61.15490218586942,
+   "wallet": "AXSetJiP5cU58t4sYCFChE7HQjUEN53qCFRjAYhB4t33",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:06:03Z",
+   "side": "buy",
+   "usd": 0.015266610170935365,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:06:09Z",
+   "side": "sell",
+   "usd": 0.2203068790087498,
+   "wallet": "AKiQ6v5DsWTNuTLZAFxK1gtwv8G3dysthfvEqGvgLrTA",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:06:09Z",
+   "side": "buy",
+   "usd": 0.23458713287622027,
+   "wallet": "AKiQ6v5DsWTNuTLZAFxK1gtwv8G3dysthfvEqGvgLrTA",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:06:15Z",
+   "side": "sell",
+   "usd": 14.372857422210716,
+   "wallet": "8UFYRS4Qvg5BnnXC993aHiuhYAdMPfUAWew6gPwMWdqU",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:06:15Z",
+   "side": "buy",
+   "usd": 14.25752735617449,
+   "wallet": "8UFYRS4Qvg5BnnXC993aHiuhYAdMPfUAWew6gPwMWdqU",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:07:46Z",
+   "side": "sell",
+   "usd": 172.5373669791755,
+   "wallet": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:07:46Z",
+   "side": "buy",
+   "usd": 171.4088357581271,
+   "wallet": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:07:49Z",
+   "side": "sell",
+   "usd": 10.894110732190994,
+   "wallet": "HS1PAA3RKhFf3qqHXfcQPn2MLZtFU8SRENc1XJzueUco",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:08:43Z",
+   "side": "sell",
+   "usd": 229.92737712206213,
+   "wallet": "ETsW1ZwXgCB1o4ECYiJzX7KJXkvyAzRnoMYam7uNQP5t",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:08:43Z",
+   "side": "buy",
+   "usd": 230.12342149417748,
+   "wallet": "ETsW1ZwXgCB1o4ECYiJzX7KJXkvyAzRnoMYam7uNQP5t",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:12:00Z",
+   "side": "sell",
+   "usd": 481.31587414011716,
+   "wallet": "gh7gW8FtC8ygPnM8GMPtaufTXenNvck8Fi4cR2Up82w",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:12:00Z",
+   "side": "buy",
+   "usd": 487.91256044783694,
+   "wallet": "gh7gW8FtC8ygPnM8GMPtaufTXenNvck8Fi4cR2Up82w",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:12:08Z",
+   "side": "buy",
+   "usd": 0.0018827018326294555,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:12:22Z",
+   "side": "sell",
+   "usd": 14.984054283219253,
+   "wallet": "HvYK3PHiza8xZh8gEx3io1oUuePRwrazsFjN9F62MspD",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:13:09Z",
+   "side": "sell",
+   "usd": 1.039700885473087,
+   "wallet": "121ihCvmw8fKeQcmaXK4uSZ9Q53fSKe9YeqHrF6hhzdc",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:13:17Z",
+   "side": "sell",
+   "usd": 9.73199212147777,
+   "wallet": "E2btQUUyUDJhZwQZHqzcMZGKnBW98Ck363DT1UaCEorm",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:14:46Z",
+   "side": "sell",
+   "usd": 8.179158595844347,
+   "wallet": "5XDgCHK5GrvC1vR8UEtBYQep6kYw56TVj69FmxuiMRbs",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:14:55Z",
+   "side": "sell",
+   "usd": 6.624000061589185,
+   "wallet": "9pU1aA67L5j3H9UkpY8KV5Znv93V4WASTwxTqy4dK5rG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:16:43Z",
+   "side": "sell",
+   "usd": 22.76451843481691,
+   "wallet": "JByjaa6bRUgCanUsZaGnBFueDcBrmk4ctVdhFMkCXdd3",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:17:04Z",
+   "side": "buy",
+   "usd": 0.0010554714482298726,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:17:46Z",
+   "side": "sell",
+   "usd": 69.51711760125174,
+   "wallet": "CAAFJsR8m9GEzmFrRGzyb8UH8WDVMMELsEfUjx7pxwZw",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:17:46Z",
+   "side": "buy",
+   "usd": 69.86596183278395,
+   "wallet": "CAAFJsR8m9GEzmFrRGzyb8UH8WDVMMELsEfUjx7pxwZw",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:19:45Z",
+   "side": "buy",
+   "usd": 0.43622207556553844,
+   "wallet": "GxDC9e7SP9mzhDo4re5HbpLa2RW7gB9DtmThx4i4pXSq",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:19:52Z",
+   "side": "buy",
+   "usd": 1.1297460517022764,
+   "wallet": "78Bo7xxGWBEvqbh3VMKvkFG4Z63cXKSJ2LCEXAanhN7a",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:20:01Z",
+   "side": "buy",
+   "usd": 21.872121200422,
+   "wallet": "goodu4F4uxXSvh62HsAfVTZhxFZmwyjtsC9h7xokSxt",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:21:11Z",
+   "side": "buy",
+   "usd": 21.99814804813595,
+   "wallet": "goodfTa7hHEK3G9dWppbobf8jsRZRB2foTKDWMuNNTN",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:21:22Z",
+   "side": "sell",
+   "usd": 87.80633021410024,
+   "wallet": "2FxfTEUaLyTPjZr5KDHwtuhZDhnPYVn2NnGpWR6LfBBN",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:21:22Z",
+   "side": "buy",
+   "usd": 87.76486843086796,
+   "wallet": "2FxfTEUaLyTPjZr5KDHwtuhZDhnPYVn2NnGpWR6LfBBN",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:22:07Z",
+   "side": "sell",
+   "usd": 11.898490195903992,
+   "wallet": "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:22:48Z",
+   "side": "buy",
+   "usd": 1044.3180855254375,
+   "wallet": "8ce3g9VC6M4Prk6kfLazrYz6q9GGthNE4r4dmuQAHkke",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:22:48Z",
+   "side": "sell",
+   "usd": 1038.9051214674964,
+   "wallet": "8ce3g9VC6M4Prk6kfLazrYz6q9GGthNE4r4dmuQAHkke",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:23:00Z",
+   "side": "sell",
+   "usd": 82.41686116024604,
+   "wallet": "2FxfTEUaLyTPjZr5KDHwtuhZDhnPYVn2NnGpWR6LfBBN",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:00Z",
+   "side": "buy",
+   "usd": 86.57286444238046,
+   "wallet": "2FxfTEUaLyTPjZr5KDHwtuhZDhnPYVn2NnGpWR6LfBBN",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:23:17Z",
+   "side": "buy",
+   "usd": 9.712369576804369,
+   "wallet": "AF3Pr5dksyzpR8n3GqaZiQdjq9tQiUeTiebVv4ttre7y",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:17Z",
+   "side": "buy",
+   "usd": 387.7625203292233,
+   "wallet": "7GhWwhaMgbKiRWxF93Bud6HnHMci6NCLTJyTxG8zFH51",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:23:20Z",
+   "side": "buy",
+   "usd": 86.99463348557481,
+   "wallet": "DRBLxRXp5xUk6qQAGMyoau7ngrqnTv8mYEa8Dce338aH",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:20Z",
+   "side": "buy",
+   "usd": 105.310284038028,
+   "wallet": "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:27Z",
+   "side": "sell",
+   "usd": 0.19359895712293423,
+   "wallet": "AF3Pr5dksyzpR8n3GqaZiQdjq9tQiUeTiebVv4ttre7y",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:31Z",
+   "side": "sell",
+   "usd": 64.5447511715257,
+   "wallet": "DRBLxRXp5xUk6qQAGMyoau7ngrqnTv8mYEa8Dce338aH",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:31Z",
+   "side": "sell",
+   "usd": 77.54842378234207,
+   "wallet": "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:32Z",
+   "side": "buy",
+   "usd": 43.434912550452225,
+   "wallet": "DRBLxRXp5xUk6qQAGMyoau7ngrqnTv8mYEa8Dce338aH",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:32Z",
+   "side": "buy",
+   "usd": 52.95859964661903,
+   "wallet": "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:37Z",
+   "side": "buy",
+   "usd": 96.15060420114017,
+   "wallet": "3ZCLJRYVEf6fjtBc7xsYgibCmXbrS7WKrGCBPF6UFTF3",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:40Z",
+   "side": "buy",
+   "usd": 12.269815816669379,
+   "wallet": "DRBLxRXp5xUk6qQAGMyoau7ngrqnTv8mYEa8Dce338aH",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:40Z",
+   "side": "buy",
+   "usd": 11.767980156387173,
+   "wallet": "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:49Z",
+   "side": "buy",
+   "usd": 12.127642043212214,
+   "wallet": "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:49Z",
+   "side": "buy",
+   "usd": 11.91051570706877,
+   "wallet": "DRBLxRXp5xUk6qQAGMyoau7ngrqnTv8mYEa8Dce338aH",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:49Z",
+   "side": "sell",
+   "usd": 94.12330660016494,
+   "wallet": "3ZCLJRYVEf6fjtBc7xsYgibCmXbrS7WKrGCBPF6UFTF3",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:56Z",
+   "side": "sell",
+   "usd": 69.59429885498713,
+   "wallet": "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:23:56Z",
+   "side": "sell",
+   "usd": 64.98323522769256,
+   "wallet": "DRBLxRXp5xUk6qQAGMyoau7ngrqnTv8mYEa8Dce338aH",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:24:05Z",
+   "side": "sell",
+   "usd": 423.1914100483908,
+   "wallet": "7GhWwhaMgbKiRWxF93Bud6HnHMci6NCLTJyTxG8zFH51",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:24:06Z",
+   "side": "sell",
+   "usd": 143.58056214053886,
+   "wallet": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:24:40Z",
+   "side": "buy",
+   "usd": 22.02481473458442,
+   "wallet": "goodu4F4uxXSvh62HsAfVTZhxFZmwyjtsC9h7xokSxt",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:25:04Z",
+   "side": "buy",
+   "usd": 24.04001268634019,
+   "wallet": "pay6tTbGkT9LiJTTw3BUNL7tWj1wppKApQrz3Dtg1d2",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:25:05Z",
+   "side": "sell",
+   "usd": 13.585271625297803,
+   "wallet": "3kXmGQ81EB4pDoVtBjvYV3YzMVZ6izvtrCwKiSQLr2ep",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:25:55Z",
+   "side": "sell",
+   "usd": 5.050029897704569,
+   "wallet": "Hts9Lqgcgnv7xKPLbL7VxXP9ZkJetWQ8CtFDz4eAtyAc",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:25:55Z",
+   "side": "buy",
+   "usd": 5.308747008694484,
+   "wallet": "Hts9Lqgcgnv7xKPLbL7VxXP9ZkJetWQ8CtFDz4eAtyAc",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:27:14Z",
+   "side": "sell",
+   "usd": 73.30214958010838,
+   "wallet": "HYiizDz6q6ZQn15Xgae8rg9iiQEnowr5uqYRXTwhkB4t",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:29:01Z",
+   "side": "sell",
+   "usd": 30.814010112792655,
+   "wallet": "6iXghXJsTm84xCcoCyEdsbmSZ8Bzn8rXBtFJj5TioHBj",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:29:10Z",
+   "side": "sell",
+   "usd": 18.369523684017548,
+   "wallet": "5MqEtLUCSPzfSeGvy6iVK6i9F8JQS4wzxKHSS6G8s8Pp",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:29:13Z",
+   "side": "sell",
+   "usd": 0.31030633987572076,
+   "wallet": "5MqEtLUCSPzfSeGvy6iVK6i9F8JQS4wzxKHSS6G8s8Pp",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:29:19Z",
+   "side": "sell",
+   "usd": 0.2789845679956399,
+   "wallet": "5MqEtLUCSPzfSeGvy6iVK6i9F8JQS4wzxKHSS6G8s8Pp",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:29:49Z",
+   "side": "sell",
+   "usd": 7.806052318056143,
+   "wallet": "AF3Pr5dksyzpR8n3GqaZiQdjq9tQiUeTiebVv4ttre7y",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:32:01Z",
+   "side": "sell",
+   "usd": 2.9351478630903807,
+   "wallet": "BJLwxLzS8mCi4Mt1h9D9a1W6sdng1QEYtmmB3tyhEf1k",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:32:17Z",
+   "side": "sell",
+   "usd": 22.640108967257657,
+   "wallet": "F3MsrweASYcZcAN9mg6o76hef1Xzh7P7qv6BM9acSMJP",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:32:23Z",
+   "side": "sell",
+   "usd": 20.008023456146475,
+   "wallet": "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:33:34Z",
+   "side": "buy",
+   "usd": 282.04361416197656,
+   "wallet": "EQpByMhz7Tm53EuKVdA3WsWrcxYwaguT4DaewTt6s9EG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:33:34Z",
+   "side": "sell",
+   "usd": 280.07818466172205,
+   "wallet": "EQpByMhz7Tm53EuKVdA3WsWrcxYwaguT4DaewTt6s9EG",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:34:15Z",
+   "side": "buy",
+   "usd": 1.2755511479896882,
+   "wallet": "8bT4yGDHGxYaorZbNWaenUcNGPzjF4ZY4vrC3vzoEtAb",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:35:55Z",
+   "side": "buy",
+   "usd": 3.5616116753722253,
+   "wallet": "12PJP39sR6rNwdSxaJXF1fZSnyQwQqXExBL6QTzrifgE",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:38:45Z",
+   "side": "sell",
+   "usd": 41.742992903250794,
+   "wallet": "FF6vsaUcp4s95Q5NNm7VZ7deZU6gBU2vZmaiyQ36Ymrc",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:38:48Z",
+   "side": "buy",
+   "usd": 5.84460165175324,
+   "wallet": "AAKyuVZQnaDZGuW4v2rDE115Cea7Zt12a6wWKSCGE7dR",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:39:57Z",
+   "side": "buy",
+   "usd": 0.0016722840635152274,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:40:49Z",
+   "side": "buy",
+   "usd": 0.004089574065013227,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:41:14Z",
+   "side": "buy",
+   "usd": 21.892089658297163,
+   "wallet": "goodfTa7hHEK3G9dWppbobf8jsRZRB2foTKDWMuNNTN",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:42:42Z",
+   "side": "buy",
+   "usd": 4.872189140232331,
+   "wallet": "4eNTW9dqXbTLzorH5uD6taGbTmLVwZ1pesmyHosiGQGe",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:44:27Z",
+   "side": "sell",
+   "usd": 4.025800388267529,
+   "wallet": "5Yz5bAC1znbHxsWfKooeDykyNwLjKA6QJKhqyr8BBtNm",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:45:50Z",
+   "side": "sell",
+   "usd": 5.692550784542136,
+   "wallet": "8jM6p7ZRnum9C3x96r2Mz3wpQVMZt46z2CTgZnWyMiws",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:45:50Z",
+   "side": "buy",
+   "usd": 5.92917526337701,
+   "wallet": "8jM6p7ZRnum9C3x96r2Mz3wpQVMZt46z2CTgZnWyMiws",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:47:00Z",
+   "side": "sell",
+   "usd": 5.631617244638856,
+   "wallet": "ZxUsPByDhuNY4MeetDuu7gmqxqr5cQeP9d5iLoayN2k",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:47:10Z",
+   "side": "sell",
+   "usd": 1.8772030829613684,
+   "wallet": "ZxUsPByDhuNY4MeetDuu7gmqxqr5cQeP9d5iLoayN2k",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:49:29Z",
+   "side": "sell",
+   "usd": 51.129188651185366,
+   "wallet": "C6HKwC4RBHGEKHgWqMXwyLpYFDqCMPat34DpD4YJUxqC",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:49:35Z",
+   "side": "sell",
+   "usd": 33.68967947464006,
+   "wallet": "FtXiGQq6mg8vzLabrtBHwLcm57DRQwTnHdKMCKKzT92n",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:50:12Z",
+   "side": "sell",
+   "usd": 89.68772179964965,
+   "wallet": "6nXJzs4FhE6Tx6wdvLSaH68gz8cXnYGPNXxUMjRhDxqw",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:50:12Z",
+   "side": "buy",
+   "usd": 93.71497847621656,
+   "wallet": "6nXJzs4FhE6Tx6wdvLSaH68gz8cXnYGPNXxUMjRhDxqw",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:50:26Z",
+   "side": "buy",
+   "usd": 532.0303031660981,
+   "wallet": "XKxfSPMdLEEkgewQnxzP1gEqBDoGCiv34jUUoDPeqAS",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:50:53Z",
+   "side": "sell",
+   "usd": 7.797574923375065,
+   "wallet": "XKxfSPMdLEEkgewQnxzP1gEqBDoGCiv34jUUoDPeqAS",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:51:15Z",
+   "side": "buy",
+   "usd": 2.5271652600535996,
+   "wallet": "XKxfSPMdLEEkgewQnxzP1gEqBDoGCiv34jUUoDPeqAS",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:51:38Z",
+   "side": "buy",
+   "usd": 30.076691292359925,
+   "wallet": "4fQooakDdJpbTUHjMjcjUb5sMYcnFxD8Pd527vfpb8zV",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:52:14Z",
+   "side": "sell",
+   "usd": 0.0006495267045504151,
+   "wallet": "4vNu9iksgbn8Aa8kE55Kbvg7FDX9tcxZds5fCh56zJdh",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:52:14Z",
+   "side": "buy",
+   "usd": 0.0006939335290114102,
+   "wallet": "4vNu9iksgbn8Aa8kE55Kbvg7FDX9tcxZds5fCh56zJdh",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:52:30Z",
+   "side": "sell",
+   "usd": 15.021005993888913,
+   "wallet": "8KWrFBuaefDMJoLshjvp5LKgCUipspuvZ6z1Qq4VZYH4",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:52:56Z",
+   "side": "sell",
+   "usd": 0.6515128412224798,
+   "wallet": "C6mmVc94kpmwiFKmbz9W7awpekH5va6p2z7yWvVUH98f",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:52:56Z",
+   "side": "buy",
+   "usd": 0.6344859843230156,
+   "wallet": "C6mmVc94kpmwiFKmbz9W7awpekH5va6p2z7yWvVUH98f",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:53:07Z",
+   "side": "buy",
+   "usd": 0.013116567508936194,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:53:34Z",
+   "side": "sell",
+   "usd": 19.07670591677949,
+   "wallet": "KVpaisngDVWBr8m6UF2xMhiYQ49nCuvjq81PvJqSmdr",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:53:34Z",
+   "side": "buy",
+   "usd": 18.58361356243199,
+   "wallet": "KVpaisngDVWBr8m6UF2xMhiYQ49nCuvjq81PvJqSmdr",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:54:40Z",
+   "side": "sell",
+   "usd": 2.057510013567302,
+   "wallet": "KVpaisngDVWBr8m6UF2xMhiYQ49nCuvjq81PvJqSmdr",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:55:31Z",
+   "side": "sell",
+   "usd": 106.4204673238052,
+   "wallet": "ENB3ybznZiK25vMUmrvLKUiW2hV59SYEVRPVpFbQCapz",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:55:45Z",
+   "side": "sell",
+   "usd": 19.698999647655114,
+   "wallet": "2iRoupptGC1vbe23GPoJr7Dv6QvxkSJVKfTgKwHoTZ66",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:55:45Z",
+   "side": "buy",
+   "usd": 19.20669304315853,
+   "wallet": "2iRoupptGC1vbe23GPoJr7Dv6QvxkSJVKfTgKwHoTZ66",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:56:49Z",
+   "side": "buy",
+   "usd": 112.63105108486815,
+   "wallet": "55Rw6G6CryMeRtvUWkUh6L8gi4HkUwJBzp5KsZeJaNmu",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:58:26Z",
+   "side": "buy",
+   "usd": 0.005038219389477703,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T09:59:03Z",
+   "side": "sell",
+   "usd": 96.9502312011945,
+   "wallet": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:59:03Z",
+   "side": "buy",
+   "usd": 102.77810021616932,
+   "wallet": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T09:59:16Z",
+   "side": "buy",
+   "usd": 21.934072747090415,
+   "wallet": "goodu4F4uxXSvh62HsAfVTZhxFZmwyjtsC9h7xokSxt",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T09:59:41Z",
+   "side": "buy",
+   "usd": 123.06685582052079,
+   "wallet": "9ZsMghjc4KxACfwktAJpJn2fhxUXDU5XCsAhYPdsfdAz",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T10:00:20Z",
+   "side": "sell",
+   "usd": 0.5765226854659974,
+   "wallet": "2zEBCzKb3SwLSL5HkGHb498thTuzJihnNKdo9W2bHFr3",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:00:55Z",
+   "side": "buy",
+   "usd": 21.92854279925254,
+   "wallet": "goodfTa7hHEK3G9dWppbobf8jsRZRB2foTKDWMuNNTN",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:01:12Z",
+   "side": "sell",
+   "usd": 1.688514660684376,
+   "wallet": "9QyptjDmuPtXkPrw2LbAcMU7Gu51j9psESttY7TD98RL",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:02:39Z",
+   "side": "sell",
+   "usd": 4.83721508509844,
+   "wallet": "4eNTW9dqXbTLzorH5uD6taGbTmLVwZ1pesmyHosiGQGe",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:03:46Z",
+   "side": "sell",
+   "usd": 1.074875595331316,
+   "wallet": "6PFq7RLr6JywadPoCbHYWeeFa8mJEXnz5uE4dfEE7dUM",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:03:46Z",
+   "side": "buy",
+   "usd": 1.1414179278627168,
+   "wallet": "6PFq7RLr6JywadPoCbHYWeeFa8mJEXnz5uE4dfEE7dUM",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:04:08Z",
+   "side": "sell",
+   "usd": 27.779307183698453,
+   "wallet": "45DXb1XPtTk1HVrQAcfCyjkTRi4aveAmAnp3gH596Trs",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:04:24Z",
+   "side": "sell",
+   "usd": 139.89534666033586,
+   "wallet": "D9GEFKo4rD7JiSR4jvkM3AtqkYcmLcbZdQmPL8SrS5GY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:05:56Z",
+   "side": "sell",
+   "usd": 14.179900186271343,
+   "wallet": "2m2GQeZK6dKvqeaTNMK3XprugSTmQbaZ1zgkwKWw5R6x",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:10:21Z",
+   "side": "sell",
+   "usd": 305.2454734903511,
+   "wallet": "CBVVn571DTYJ3Ebh7U2SGjYrLgbKtv74QmpFcV8cAjfo",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:10:21Z",
+   "side": "buy",
+   "usd": 325.7365737254375,
+   "wallet": "CBVVn571DTYJ3Ebh7U2SGjYrLgbKtv74QmpFcV8cAjfo",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:11:05Z",
+   "side": "sell",
+   "usd": 0.20513353369250642,
+   "wallet": "CBVVn571DTYJ3Ebh7U2SGjYrLgbKtv74QmpFcV8cAjfo",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:11:48Z",
+   "side": "sell",
+   "usd": 4.780974513738972,
+   "wallet": "8KWrFBuaefDMJoLshjvp5LKgCUipspuvZ6z1Qq4VZYH4",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:11:52Z",
+   "side": "sell",
+   "usd": 2.908376238750767,
+   "wallet": "6HRKnFDEFbWM7rNe9DxB9YbUhytD3nB6jsKup8n3XF2F",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:11:54Z",
+   "side": "sell",
+   "usd": 666.1981376383533,
+   "wallet": "JAbcgkwZouF636SUCyCukRD8iqetvWMjVibfs7y1Y2Rn",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:12:48Z",
+   "side": "sell",
+   "usd": 0.08653425604692729,
+   "wallet": "3h2tegbEYGffar8H6LpGS2ehE8vxFCn3htdYdvw5tWWF",
+   "pool": "xSOL / USDC"
+  },
+  {
+   "ts": "2026-09-16T10:14:44Z",
+   "side": "sell",
+   "usd": 41.19595829206226,
+   "wallet": "DPAghrNgkW4m5HMBL3kVsiCm9ywhrBtCutc6tSSvicx8",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:14:52Z",
+   "side": "sell",
+   "usd": 106.74915494619421,
+   "wallet": "FUvA8HCavf1jAg6wNEtteUFUNHiU9DnP5g7QobKtqM8w",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:15:55Z",
+   "side": "sell",
+   "usd": 10.345540331506895,
+   "wallet": "FuW7LEUDmtpFXg9X9LT5UgcaNPDkNVX4UPRYmWABp3CW",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:16:04Z",
+   "side": "buy",
+   "usd": 11.847323930358598,
+   "wallet": "74kSvQufFd3GtmCrRxz5AZvm9maEKb7qC8PJSsBtu9oQ",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:16:30Z",
+   "side": "buy",
+   "usd": 0.002321846173712176,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:17:00Z",
+   "side": "buy",
+   "usd": 142.0127211616706,
+   "wallet": "EsDMBHvKFrRWovhXxrYkWCgNmjJZ1ZwAtm7LtKVnHaAp",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:21:21Z",
+   "side": "buy",
+   "usd": 6.980218229345562,
+   "wallet": "EsDMBHvKFrRWovhXxrYkWCgNmjJZ1ZwAtm7LtKVnHaAp",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:22:05Z",
+   "side": "buy",
+   "usd": 0.005351821481444832,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:22:58Z",
+   "side": "sell",
+   "usd": 786.742485560894,
+   "wallet": "4ZgLmd9rv3TJTSXD2C2BowV6b5782mUxoB2e8fwYYoWG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:22:58Z",
+   "side": "buy",
+   "usd": 788.2884900388592,
+   "wallet": "4ZgLmd9rv3TJTSXD2C2BowV6b5782mUxoB2e8fwYYoWG",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:23:02Z",
+   "side": "buy",
+   "usd": 0.0013801618632016696,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:24:10Z",
+   "side": "buy",
+   "usd": 0.0036120839650246334,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:24:24Z",
+   "side": "sell",
+   "usd": 4.8814663863548,
+   "wallet": "AQ9mR88tEMLsW9gsufhFDb4jRiEwrsoMYuHyvj7BvFdN",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:24:47Z",
+   "side": "sell",
+   "usd": 26.291639560356245,
+   "wallet": "A9ih2GMxgf69JfUpnzMeyXT77csqmknLFGfUpbbcujzJ",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:25:12Z",
+   "side": "buy",
+   "usd": 0.001447226667268911,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:25:58Z",
+   "side": "buy",
+   "usd": 9.713667984461267,
+   "wallet": "3U6EHQZ41f9jVVJWXoj1t7zH4kbcZXEJCo5kcwr7Yohb",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:26:18Z",
+   "side": "buy",
+   "usd": 0.5975164237037035,
+   "wallet": "EqpJ953xHypdNSAHeWvr12QoHnr9QhddoXY737gT3Lp",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:26:25Z",
+   "side": "buy",
+   "usd": 0.002345094074074073,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:28:20Z",
+   "side": "sell",
+   "usd": 717.962534174542,
+   "wallet": "GL8gf7VZjLYvX7k7AuR1YTtvTxsCGqZTYJqxaUauA7JV",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:28:20Z",
+   "side": "buy",
+   "usd": 738.5398870398955,
+   "wallet": "GL8gf7VZjLYvX7k7AuR1YTtvTxsCGqZTYJqxaUauA7JV",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:28:27Z",
+   "side": "buy",
+   "usd": 359.2563747881353,
+   "wallet": "CBVVn571DTYJ3Ebh7U2SGjYrLgbKtv74QmpFcV8cAjfo",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:28:27Z",
+   "side": "sell",
+   "usd": 356.236251553006,
+   "wallet": "CBVVn571DTYJ3Ebh7U2SGjYrLgbKtv74QmpFcV8cAjfo",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:31:10Z",
+   "side": "buy",
+   "usd": 1.9322625357575756,
+   "wallet": "Azoxm1hBSbTiAYShsPA8134eXV44fTUXTYmcsUdTW77m",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:32:06Z",
+   "side": "buy",
+   "usd": 58.86161071569178,
+   "wallet": "7pRNgVbDf1LCctG6tyBDTvktEt97SFgnxNEXj82U2tY7",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:33:49Z",
+   "side": "sell",
+   "usd": 2.3025095742599064,
+   "wallet": "FGeZxZTRaLvD1Em3bfSFPrcRoQ6sfzQpwtdDhMnrBUB",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:34:18Z",
+   "side": "buy",
+   "usd": 36.36814214510274,
+   "wallet": "U4GaKeM451yVcs6JeMirSdLQCjdpEVcf33EoXLrzkj2",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:34:19Z",
+   "side": "buy",
+   "usd": 98.81714645463961,
+   "wallet": "ErDjvdR4eKupwgEvGA6JAX5rbLHEzcHQ6QXsTdkD8pgX",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:34:19Z",
+   "side": "sell",
+   "usd": 98.18714676535969,
+   "wallet": "ErDjvdR4eKupwgEvGA6JAX5rbLHEzcHQ6QXsTdkD8pgX",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:34:36Z",
+   "side": "sell",
+   "usd": 10.882546519090166,
+   "wallet": "CAGrP21ya6knWd3SZvpvj4UmXQHhNgh7G2hmN6gt1h5W",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:34:36Z",
+   "side": "buy",
+   "usd": 10.691980563892113,
+   "wallet": "CAGrP21ya6knWd3SZvpvj4UmXQHhNgh7G2hmN6gt1h5W",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:36:13Z",
+   "side": "buy",
+   "usd": 14.99188847247974,
+   "wallet": "7pRNgVbDf1LCctG6tyBDTvktEt97SFgnxNEXj82U2tY7",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:37:05Z",
+   "side": "buy",
+   "usd": 114.6209816156362,
+   "wallet": "DzrgxxX2KPyfuf48zEWKxyJGkN9Ph65JJGTnEqbTYdji",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:37:23Z",
+   "side": "buy",
+   "usd": 0.06783578684568449,
+   "wallet": "3gmp9PWq3q4WWriTCk47BQTW3jAk6NPEteXBvaakM71q",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:37:56Z",
+   "side": "sell",
+   "usd": 7.380656799252238,
+   "wallet": "8wNwmwDPSmnWew7rM5rWP4xnohUSZwxobMuVLvQjWTKA",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:38:09Z",
+   "side": "buy",
+   "usd": 5.152276817793967,
+   "wallet": "ProCXqRcXJjoUd1RNoo28bSizAA6EEqt9wURZYPDc5u",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:38:11Z",
+   "side": "buy",
+   "usd": 1193.5801413567585,
+   "wallet": "8ce3g9VC6M4Prk6kfLazrYz6q9GGthNE4r4dmuQAHkke",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:38:39Z",
+   "side": "sell",
+   "usd": 49.85746365399497,
+   "wallet": "5KG7NoMvqCr8hioGbBDRSVj84rDU2p1uDGX87K4dQPrZ",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:39:13Z",
+   "side": "buy",
+   "usd": 1.5537073888971464,
+   "wallet": "G88tjHY8sGsvGyy1u3LKM69TUNLq8hz1kBQiQcV4YL6i",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:39:14Z",
+   "side": "buy",
+   "usd": 1.8517841016595429,
+   "wallet": "3cRDkEc66VSHWwgQkynux8cav3VS11pWCaxwvKc4QGw3",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:39:14Z",
+   "side": "buy",
+   "usd": 1.7303321649302443,
+   "wallet": "CtEJA7YUhtCou5MW2Ga3tddW1ESuhatRWpCmnmz68ERQ",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:39:16Z",
+   "side": "buy",
+   "usd": 4.676573498806767,
+   "wallet": "zbmg9d5xHtouvKtFGqASdKbHEQ4bQdJwqtQPkdvc3Ud",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:39:17Z",
+   "side": "sell",
+   "usd": 26.339589637890576,
+   "wallet": "6KaLh6eZamhaEksNEv2vutSk5n3GdtL1YY1y98vJRhG3",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:39:23Z",
+   "side": "buy",
+   "usd": 25.634976228865522,
+   "wallet": "6KaLh6eZamhaEksNEv2vutSk5n3GdtL1YY1y98vJRhG3",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:39:49Z",
+   "side": "buy",
+   "usd": 84.30292620142751,
+   "wallet": "5qEv7QHS6DozTBPBEf1NJbH2ZPRTEPWPyV8Bx89Voniy",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:40:25Z",
+   "side": "buy",
+   "usd": 170.64888636858072,
+   "wallet": "GeZBYXvU89LKTWZ9oHHaUoPAhJfcqoT5TS3VdkYyXoAj",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:40:25Z",
+   "side": "buy",
+   "usd": 21.332863808725598,
+   "wallet": "2tP27cAgnsLiA5RyjRRFnUe943xde8NVMT6z4M3bUCjc",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:40:25Z",
+   "side": "buy",
+   "usd": 21.332863551107543,
+   "wallet": "DdowjraZvDRh2Xjz53Wj1LRMyMwcUbYz2nD8Ni6i6cKe",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:40:25Z",
+   "side": "buy",
+   "usd": 21.332859068860092,
+   "wallet": "D7pcJ3wvouvzXrQNxCxXtmvdfUg25GtDGSx7mCt9vKG6",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:40:30Z",
+   "side": "buy",
+   "usd": 84.48612109758521,
+   "wallet": "5aSREChH7nDfotcvgVwRt7HJ4ZFx3K5qaV8EjeGtYR2Y",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:40:30Z",
+   "side": "buy",
+   "usd": 169.83146164958538,
+   "wallet": "G4yZ1n6n4k2zHtnxvT5yXPGyF693SRizaH1VbdDXzJex",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:40:30Z",
+   "side": "buy",
+   "usd": 21.24688163564016,
+   "wallet": "DUhcnj23fEnzuSAc1WiDerDk9L9RpBJUp21tiufxT7z",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:40:48Z",
+   "side": "sell",
+   "usd": 29.67877472037234,
+   "wallet": "A86twEf18cHdQJaMLYTDkxevZveH4r9iD8ynUCSfsd61",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:41:48Z",
+   "side": "buy",
+   "usd": 875.8907044306719,
+   "wallet": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:41:48Z",
+   "side": "buy",
+   "usd": 584.3172662602989,
+   "wallet": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:42:41Z",
+   "side": "sell",
+   "usd": 26.053506991365595,
+   "wallet": "6KaLh6eZamhaEksNEv2vutSk5n3GdtL1YY1y98vJRhG3",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:42:56Z",
+   "side": "sell",
+   "usd": 26.355080032890196,
+   "wallet": "6KaLh6eZamhaEksNEv2vutSk5n3GdtL1YY1y98vJRhG3",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:43:09Z",
+   "side": "buy",
+   "usd": 23.955152950486998,
+   "wallet": "6KaLh6eZamhaEksNEv2vutSk5n3GdtL1YY1y98vJRhG3",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:43:09Z",
+   "side": "sell",
+   "usd": 26.241910552828283,
+   "wallet": "6KaLh6eZamhaEksNEv2vutSk5n3GdtL1YY1y98vJRhG3",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:43:23Z",
+   "side": "buy",
+   "usd": 26.331325819598085,
+   "wallet": "6KaLh6eZamhaEksNEv2vutSk5n3GdtL1YY1y98vJRhG3",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:43:23Z",
+   "side": "sell",
+   "usd": 26.33921704882249,
+   "wallet": "6KaLh6eZamhaEksNEv2vutSk5n3GdtL1YY1y98vJRhG3",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:44:05Z",
+   "side": "buy",
+   "usd": 21.923794183171985,
+   "wallet": "goodu4F4uxXSvh62HsAfVTZhxFZmwyjtsC9h7xokSxt",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:44:49Z",
+   "side": "buy",
+   "usd": 121.79533195433547,
+   "wallet": "z1PXUpQYGAe7235x8gvcukqFMmaQznHvA8PPx12eL9R",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:44:49Z",
+   "side": "sell",
+   "usd": 121.4990143021179,
+   "wallet": "z1PXUpQYGAe7235x8gvcukqFMmaQznHvA8PPx12eL9R",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:44:57Z",
+   "side": "buy",
+   "usd": 55.29419061364253,
+   "wallet": "H1vq1C1KuzuCTymXF8xwLUgvXFCwQVSo8pVDGfrChKUC",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:45:33Z",
+   "side": "sell",
+   "usd": 21.895575784021204,
+   "wallet": "8LrjN3Y1v1RHDUwpCQHMGqbdys5XA7yYirLCzVuxbWjf",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:45:33Z",
+   "side": "buy",
+   "usd": 22.03342255298443,
+   "wallet": "8LrjN3Y1v1RHDUwpCQHMGqbdys5XA7yYirLCzVuxbWjf",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:45:41Z",
+   "side": "sell",
+   "usd": 0.2787057612183656,
+   "wallet": "5MqEtLUCSPzfSeGvy6iVK6i9F8JQS4wzxKHSS6G8s8Pp",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:47:19Z",
+   "side": "buy",
+   "usd": 1434.030441769104,
+   "wallet": "HheiT7HCF7wv9vZrdBLuq1rUKQed4Hi1iW95CfMLY8kX",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:47:19Z",
+   "side": "sell",
+   "usd": 1419.9817038245187,
+   "wallet": "HheiT7HCF7wv9vZrdBLuq1rUKQed4Hi1iW95CfMLY8kX",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:47:22Z",
+   "side": "sell",
+   "usd": 3.1212454798378095,
+   "wallet": "Bbj3HKzEbPv5GozHuLjYPQG3fhu1yDhyG5sW8e8R7pQD",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:47:22Z",
+   "side": "buy",
+   "usd": 2.9723889644217736,
+   "wallet": "Bbj3HKzEbPv5GozHuLjYPQG3fhu1yDhyG5sW8e8R7pQD",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:47:32Z",
+   "side": "sell",
+   "usd": 7.811105546724797,
+   "wallet": "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:48:36Z",
+   "side": "sell",
+   "usd": 2.381809473858998,
+   "wallet": "4pSH4D3Q6MzvxKt2vc9SvXnHVPoUEdk5TWQpcXW4WRdJ",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:49:21Z",
+   "side": "sell",
+   "usd": 81.3160061564554,
+   "wallet": "6nXJzs4FhE6Tx6wdvLSaH68gz8cXnYGPNXxUMjRhDxqw",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:49:21Z",
+   "side": "buy",
+   "usd": 77.98820382619465,
+   "wallet": "6nXJzs4FhE6Tx6wdvLSaH68gz8cXnYGPNXxUMjRhDxqw",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:49:39Z",
+   "side": "sell",
+   "usd": 0.05094803702131178,
+   "wallet": "3KV1AG2r9wqXFcQiadb8mNMJLCXcGkbQ51ARRSuWymVE",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:49:39Z",
+   "side": "buy",
+   "usd": 0.0486479193013329,
+   "wallet": "3KV1AG2r9wqXFcQiadb8mNMJLCXcGkbQ51ARRSuWymVE",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:49:48Z",
+   "side": "sell",
+   "usd": 2.194820251348985,
+   "wallet": "6nXJzs4FhE6Tx6wdvLSaH68gz8cXnYGPNXxUMjRhDxqw",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:49:58Z",
+   "side": "sell",
+   "usd": 16.672271606824044,
+   "wallet": "3P5wRZAmojZ3KkGw6YEfwwKy8o15jn8UyLY3LLKftBtc",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:49:58Z",
+   "side": "buy",
+   "usd": 16.014415158843832,
+   "wallet": "3P5wRZAmojZ3KkGw6YEfwwKy8o15jn8UyLY3LLKftBtc",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:50:27Z",
+   "side": "sell",
+   "usd": 41.17779320109204,
+   "wallet": "CKExf9W771xdCbUp6Cq2vgGgWtTWaKvpMyyVCpYbE5UY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:50:27Z",
+   "side": "buy",
+   "usd": 39.564593631682975,
+   "wallet": "CKExf9W771xdCbUp6Cq2vgGgWtTWaKvpMyyVCpYbE5UY",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:50:33Z",
+   "side": "buy",
+   "usd": 261.7893823898709,
+   "wallet": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:52:20Z",
+   "side": "sell",
+   "usd": 0.02957574121112041,
+   "wallet": "CdeT4gc7dT5JVpVszWioFbugqS2E5SbmbZHDWiRjyvam",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:52:20Z",
+   "side": "sell",
+   "usd": 0.035666420630358645,
+   "wallet": "37Xk6krsEGnmmGyDWZjFfwqe1NPpz3jtYLbWppG4yTzg",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:52:20Z",
+   "side": "sell",
+   "usd": 0.03228802798780422,
+   "wallet": "3byvsa7YHf9iqN37iguJN4jWZMtpvBL1SL9XCJvGuVwT",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:52:20Z",
+   "side": "sell",
+   "usd": 0.29384957850528315,
+   "wallet": "9fcMp3GNGnd3qTn4krE399UYEsUNfkVsXQvo8np47NGW",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:52:21Z",
+   "side": "sell",
+   "usd": 0.12152456387482485,
+   "wallet": "3MshHo1CqCzpTUwQmPBhLdiGMozGnoY1c2zsWdHZsuMU",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:52:21Z",
+   "side": "sell",
+   "usd": 0.0811946254967479,
+   "wallet": "C8eFakR7i7LU83yd2oLrnRh8mBUsGM1n3G86EKipNNMt",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:52:54Z",
+   "side": "sell",
+   "usd": 9.391197044828148,
+   "wallet": "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:53:55Z",
+   "side": "sell",
+   "usd": 1.8467393861505539,
+   "wallet": "3yFJf2t3rVvBC2DM31qsjJcPyE6Sz3qRKFgJJji98XDJ",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:54:58Z",
+   "side": "sell",
+   "usd": 14.321452259129726,
+   "wallet": "2r58JtM42s2hwTahRfqHtUhBZUjz3aiGBcFaZAu3HrgP",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:55:11Z",
+   "side": "sell",
+   "usd": 13.650086583046921,
+   "wallet": "2r58JtM42s2hwTahRfqHtUhBZUjz3aiGBcFaZAu3HrgP",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:56:14Z",
+   "side": "sell",
+   "usd": 145.73607270122903,
+   "wallet": "7KPhAsKH9d2BEoHAfkAqurPfk5Db2Uf82H4NeppSnwu8",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:27Z",
+   "side": "buy",
+   "usd": 72.4050068892137,
+   "wallet": "89ZocEGDuNdLzA9LK2nB68hf5SfqGCdQiYWNxzqCipKm",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:27Z",
+   "side": "buy",
+   "usd": 33.963402644241654,
+   "wallet": "9su3UPQW3txjtKDZAkf2Kdimp5tEb9TM6hnJrGC1U7pY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:30Z",
+   "side": "sell",
+   "usd": 0.22941867047799128,
+   "wallet": "HAWK3BVnwptKRFYfVoVGhBc2TYxpyG9jmAbkHeW9tyKE",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:31Z",
+   "side": "buy",
+   "usd": 9.634537207032468,
+   "wallet": "CXsAdUqDvpumLW9588VhZDxgtNR5GuPiyqsjn9VnaG1",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:31Z",
+   "side": "sell",
+   "usd": 281.1149980442084,
+   "wallet": "89ZocEGDuNdLzA9LK2nB68hf5SfqGCdQiYWNxzqCipKm",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:31Z",
+   "side": "sell",
+   "usd": 32.27262019243914,
+   "wallet": "9su3UPQW3txjtKDZAkf2Kdimp5tEb9TM6hnJrGC1U7pY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:32Z",
+   "side": "buy",
+   "usd": 96.34537207032467,
+   "wallet": "iQ3aRn1U5oTBnn1aGjcjmxJUWhCryKQZekyNGa9V59b",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:32Z",
+   "side": "buy",
+   "usd": 144.51805810548703,
+   "wallet": "6r9A4A2FgMyVirgh9irfTuweE5YSKgkkAsmLEXgeNWUr",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:34Z",
+   "side": "buy",
+   "usd": 9.634537207032468,
+   "wallet": "9FB3vVCvz7aPEqXFSqSHu6nPBASKGy38pFSUMyKACqrf",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:37Z",
+   "side": "sell",
+   "usd": 4.355315706255746,
+   "wallet": "89ZocEGDuNdLzA9LK2nB68hf5SfqGCdQiYWNxzqCipKm",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:38Z",
+   "side": "buy",
+   "usd": 997.9461782661134,
+   "wallet": "CPK7JrooiYRyuDJdaipR9uBVt1zC9jLSfgkH1qJEmWRi",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:38Z",
+   "side": "sell",
+   "usd": 995.5015104932513,
+   "wallet": "CPK7JrooiYRyuDJdaipR9uBVt1zC9jLSfgkH1qJEmWRi",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T10:57:42Z",
+   "side": "buy",
+   "usd": 34.06029527236194,
+   "wallet": "AowTUid5daQr9EqwazF7hDm3jBTQSisv6LaHGhQL8k92",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:47Z",
+   "side": "buy",
+   "usd": 9.634607650897427,
+   "wallet": "CjBXtfSh23wGhQim125MCvkoqQZUVJAN5rsjf8x2Dk5B",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:52Z",
+   "side": "sell",
+   "usd": 9.153645214705822,
+   "wallet": "CjBXtfSh23wGhQim125MCvkoqQZUVJAN5rsjf8x2Dk5B",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:57:53Z",
+   "side": "sell",
+   "usd": 94.16207104471364,
+   "wallet": "iQ3aRn1U5oTBnn1aGjcjmxJUWhCryKQZekyNGa9V59b",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:58:01Z",
+   "side": "sell",
+   "usd": 8.81867034373065,
+   "wallet": "9FB3vVCvz7aPEqXFSqSHu6nPBASKGy38pFSUMyKACqrf",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:58:16Z",
+   "side": "sell",
+   "usd": 140.52935872595293,
+   "wallet": "6r9A4A2FgMyVirgh9irfTuweE5YSKgkkAsmLEXgeNWUr",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:58:34Z",
+   "side": "sell",
+   "usd": 15.721604282102026,
+   "wallet": "82abgG9n467jbttW6LE4RYancZKzXkZ2L3GxaCHmWhyi",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:58:54Z",
+   "side": "sell",
+   "usd": 9.371624204892402,
+   "wallet": "CXsAdUqDvpumLW9588VhZDxgtNR5GuPiyqsjn9VnaG1",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:59:39Z",
+   "side": "sell",
+   "usd": 0.07909101589380953,
+   "wallet": "GxDC9e7SP9mzhDo4re5HbpLa2RW7gB9DtmThx4i4pXSq",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T10:59:39Z",
+   "side": "sell",
+   "usd": 0.20979603073187622,
+   "wallet": "8UFYRS4Qvg5BnnXC993aHiuhYAdMPfUAWew6gPwMWdqU",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:07Z",
+   "side": "sell",
+   "usd": 0.027229276415495333,
+   "wallet": "2kv6b4wmbF2ausJ3spLDzpNCei64NzCkHKQhyL2sQgWu",
+   "pool": "xSOL / LEVERCAT"
+  },
+  {
+   "ts": "2026-09-16T11:00:14Z",
+   "side": "buy",
+   "usd": 50.021306908217205,
+   "wallet": "2tWW1kEUpZnw1gotNcFQJfT6pihRBpnrYPPwZ6HvHCec",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:37Z",
+   "side": "buy",
+   "usd": 58.36887159191403,
+   "wallet": "H6PjRLnqGPz5VEU4roZzKnfJRxKECRzYuJAZ2Hvc1rAc",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:37Z",
+   "side": "buy",
+   "usd": 126.46588844914706,
+   "wallet": "6FVXroBP8KxrshDE3PCKBpamyVJpT9vSo8CarRSWnRD5",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:37Z",
+   "side": "buy",
+   "usd": 145.92217897978506,
+   "wallet": "C5EMTGGE87SqLyuvhShLDMj2jUBwqBLJAZF6ybK8Jyqw",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:37Z",
+   "side": "buy",
+   "usd": 486.40726326595023,
+   "wallet": "HTM87R4mgjDdiF6Yfn8duK9vbDmZxiPCTRbGvm7eCAJY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:37Z",
+   "side": "buy",
+   "usd": 116.73774318382806,
+   "wallet": "9su3UPQW3txjtKDZAkf2Kdimp5tEb9TM6hnJrGC1U7pY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:39Z",
+   "side": "buy",
+   "usd": 112.70959917829471,
+   "wallet": "7nwPXZNhBj88jcC22VNBQUYLohTsQWh5VGxWqnAAcvMf",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:39Z",
+   "side": "sell",
+   "usd": 19.658410842875206,
+   "wallet": "4LeQ2gYL7rv4GBhAJu2kwetbQjbZ3cHPsEwJYwE3CGE4",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:39Z",
+   "side": "buy",
+   "usd": 9.698354279665756,
+   "wallet": "8pY1AukbuPgUE3EetyLa59rFLMimJGT94ZzbMEZcQF4w",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:43Z",
+   "side": "sell",
+   "usd": 112.55064614873203,
+   "wallet": "9su3UPQW3txjtKDZAkf2Kdimp5tEb9TM6hnJrGC1U7pY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:43Z",
+   "side": "sell",
+   "usd": 83.53440716325026,
+   "wallet": "HTM87R4mgjDdiF6Yfn8duK9vbDmZxiPCTRbGvm7eCAJY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:45Z",
+   "side": "sell",
+   "usd": 96.72507434316296,
+   "wallet": "HTM87R4mgjDdiF6Yfn8duK9vbDmZxiPCTRbGvm7eCAJY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:45Z",
+   "side": "sell",
+   "usd": 0.0787207351756773,
+   "wallet": "Dfpya2h37JXMo9NeUy3KB2EMseya7dpKxzTS3bAJZ74",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:45Z",
+   "side": "buy",
+   "usd": 144.4629571899872,
+   "wallet": "6r9A4A2FgMyVirgh9irfTuweE5YSKgkkAsmLEXgeNWUr",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:45Z",
+   "side": "sell",
+   "usd": 115.32423754804569,
+   "wallet": "C5EMTGGE87SqLyuvhShLDMj2jUBwqBLJAZF6ybK8Jyqw",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:48Z",
+   "side": "sell",
+   "usd": 207.10517438554214,
+   "wallet": "HTM87R4mgjDdiF6Yfn8duK9vbDmZxiPCTRbGvm7eCAJY",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:51Z",
+   "side": "sell",
+   "usd": 22.575746082983937,
+   "wallet": "6FVXroBP8KxrshDE3PCKBpamyVJpT9vSo8CarRSWnRD5",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:51Z",
+   "side": "sell",
+   "usd": 28.211469524924198,
+   "wallet": "6YBdBu9GsNibqVRSzsqweLFLPKvpBwyoiUgH7vzQTpgN",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:51Z",
+   "side": "sell",
+   "usd": 14.093071804790497,
+   "wallet": "CjhNJhTc1gazBdB198rLYjrd4t7J8kB6iZXCQL17k8WK",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:00:51Z",
+   "side": "sell",
+   "usd": 15.136334159489163,
+   "wallet": "HRguKsemz6BGURLNBPar8ejjj7fRo3FQKbfjpdcEvdLW",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:01:01Z",
+   "side": "sell",
+   "usd": 67.43822363750391,
+   "wallet": "6YBdBu9GsNibqVRSzsqweLFLPKvpBwyoiUgH7vzQTpgN",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:01:01Z",
+   "side": "sell",
+   "usd": 34.064126111984706,
+   "wallet": "CjhNJhTc1gazBdB198rLYjrd4t7J8kB6iZXCQL17k8WK",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:01:01Z",
+   "side": "sell",
+   "usd": 34.550642666795454,
+   "wallet": "HRguKsemz6BGURLNBPar8ejjj7fRo3FQKbfjpdcEvdLW",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:01:01Z",
+   "side": "sell",
+   "usd": 58.29123561573859,
+   "wallet": "6FVXroBP8KxrshDE3PCKBpamyVJpT9vSo8CarRSWnRD5",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:01:04Z",
+   "side": "sell",
+   "usd": 92.65412960277548,
+   "wallet": "6r9A4A2FgMyVirgh9irfTuweE5YSKgkkAsmLEXgeNWUr",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:01:07Z",
+   "side": "buy",
+   "usd": 0.0012634231409908018,
+   "wallet": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:01:10Z",
+   "side": "buy",
+   "usd": 1.943727909216618,
+   "wallet": "CxkoBcNveehmJ2vJcMbnduS9Mz6fHHjqZVv6Fed9GcJu",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:01:18Z",
+   "side": "buy",
+   "usd": 48.15770566270634,
+   "wallet": "AsSvVv4SNwSSfYqb3KEGie5w9sj89wd6PGC2KmBsxY4L",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:02:50Z",
+   "side": "sell",
+   "usd": 45.76173203164962,
+   "wallet": "AsSvVv4SNwSSfYqb3KEGie5w9sj89wd6PGC2KmBsxY4L",
+   "pool": "xSOL / SOL"
+  },
+  {
+   "ts": "2026-09-16T11:04:12Z",
+   "side": "buy",
+   "usd": 13.463374232070992,
+   "wallet": "7k5WLRVYcMCg6LFXLrhFs8656HWyQkfi9UjmDbnniQdh",
+   "pool": "xSOL / USDC"
+  }
+ ],
+ "ohlcv": [
+  [
+   1789502700,
+   0.05726876645760686,
+   0.057565782018874356,
+   0.05715102535497126,
+   0.05725361189140915,
+   2252.541883393095
+  ],
+  [
+   1789503000,
+   0.05725361189140915,
+   0.05776432594082947,
+   0.05682879273880323,
+   0.05776432594082947,
+   1990.5477392166833
+  ],
+  [
+   1789503300,
+   0.05776432594082947,
+   0.05776432594082947,
+   0.056680229418470396,
+   0.056850205372618076,
+   5296.533587085509
+  ],
+  [
+   1789503600,
+   0.056850205372618076,
+   0.056850205372618076,
+   0.056258582996413904,
+   0.056258582996413904,
+   10393.53494611695
+  ],
+  [
+   1789503900,
+   0.056258582996413904,
+   0.05641927020090692,
+   0.05607272550520458,
+   0.05633940686671367,
+   363.10108676824655
+  ],
+  [
+   1789504200,
+   0.05633940686671367,
+   0.05633940686671367,
+   0.05584754962008697,
+   0.05618938561031918,
+   410.83356911796477
+  ],
+  [
+   1789504500,
+   0.05618938561031918,
+   0.05620027666052778,
+   0.05572178155541022,
+   0.05620027666052778,
+   285.62156228177054
+  ],
+  [
+   1789504800,
+   0.05620027666052778,
+   0.05620027666052778,
+   0.0555595699354553,
+   0.05602918096575558,
+   4078.4037117236267
+  ],
+  [
+   1789505100,
+   0.05602918096575558,
+   0.05661678158168937,
+   0.05599473768848426,
+   0.05661678158168937,
+   3233.2063277565676
+  ],
+  [
+   1789505400,
+   0.05661678158168937,
+   0.056955055623694774,
+   0.05612475203681322,
+   0.056762976301032546,
+   406.8598286907994
+  ],
+  [
+   1789505700,
+   0.056762976301032546,
+   0.05688035290642667,
+   0.056486216834734045,
+   0.05682346659101904,
+   552.7379511153188
+  ],
+  [
+   1789506000,
+   0.05682346659101904,
+   0.05682346659101904,
+   0.05623020703599443,
+   0.05624302284814066,
+   411.31816967315285
+  ],
+  [
+   1789506300,
+   0.05624302284814066,
+   0.056724314864672616,
+   0.05612967066163808,
+   0.056572891818429866,
+   1438.8604461144355
+  ],
+  [
+   1789506600,
+   0.056572891818429866,
+   0.0568037058736654,
+   0.056129559899536455,
+   0.05652576906280622,
+   1323.993193389432
+  ],
+  [
+   1789506900,
+   0.05652576906280622,
+   0.05699643925549042,
+   0.05626843223329935,
+   0.056417337944762114,
+   2953.35875644502
+  ],
+  [
+   1789507200,
+   0.056417337944762114,
+   0.05690511159523401,
+   0.05591435054667849,
+   0.05639301399654115,
+   9387.324696585698
+  ],
+  [
+   1789507500,
+   0.05639301399654115,
+   0.05654127406488268,
+   0.055602969954352884,
+   0.05607179865823025,
+   4541.092423752104
+  ],
+  [
+   1789507800,
+   0.05607179865823025,
+   0.05629501807366842,
+   0.05571319253273098,
+   0.05629501807366842,
+   2827.519671415181
+  ],
+  [
+   1789508100,
+   0.05629501807366842,
+   0.05629501807366842,
+   0.05577812591198191,
+   0.05627458440911795,
+   628.4027108855062
+  ],
+  [
+   1789508400,
+   0.05627458440911795,
+   0.056719186311801055,
+   0.05596054092817692,
+   0.056670288485633366,
+   7500.676743967283
+  ],
+  [
+   1789508700,
+   0.056670288485633366,
+   0.056670288485633366,
+   0.056322105857651295,
+   0.056335741689992204,
+   200.9325776274762
+  ],
+  [
+   1789509000,
+   0.056335741689992204,
+   0.056654261028473867,
+   0.05606847648865468,
+   0.05647058146272154,
+   877.9673437031977
+  ],
+  [
+   1789509300,
+   0.05647058146272154,
+   0.05651934975450608,
+   0.056142178853944465,
+   0.05651934975450608,
+   1192.8268397819104
+  ],
+  [
+   1789509600,
+   0.05651934975450608,
+   0.05662614103667501,
+   0.056240319846953345,
+   0.056375298822634194,
+   2068.2073159449515
+  ],
+  [
+   1789509900,
+   0.056375298822634194,
+   0.056425965648465755,
+   0.056022090711048675,
+   0.056022090711048675,
+   125.11981673852034
+  ],
+  [
+   1789510200,
+   0.056022090711048675,
+   0.05644444963852615,
+   0.056022090711048675,
+   0.05644444963852615,
+   1236.9702981162025
+  ],
+  [
+   1789510500,
+   0.05644444963852615,
+   0.056500729206765514,
+   0.055763056574947234,
+   0.0562220650452852,
+   2682.8065256471086
+  ],
+  [
+   1789510800,
+   0.0562220650452852,
+   0.056242532491141035,
+   0.05582961922604882,
+   0.055932119056318126,
+   1121.7672453201906
+  ],
+  [
+   1789511100,
+   0.055932119056318126,
+   0.056419746605593936,
+   0.055932119056318126,
+   0.056419746605593936,
+   112.01916609408956
+  ],
+  [
+   1789511400,
+   0.056419746605593936,
+   0.05649311748834932,
+   0.05587192261965472,
+   0.056441246316584114,
+   838.2189258013788
+  ],
+  [
+   1789511700,
+   0.056441246316584114,
+   0.056441246316584114,
+   0.05559617031786739,
+   0.056094734816299,
+   1762.0463223255151
+  ],
+  [
+   1789512000,
+   0.056094734816299,
+   0.056358861326933775,
+   0.05587438422794544,
+   0.055960034324750135,
+   1994.5445034217857
+  ],
+  [
+   1789512300,
+   0.055960034324750135,
+   0.05634557264788635,
+   0.055960034324750135,
+   0.05599835467772636,
+   808.9708611413138
+  ],
+  [
+   1789512600,
+   0.05599835467772636,
+   0.05649368833074435,
+   0.05584014124765576,
+   0.056379099926835555,
+   687.8363817632888
+  ],
+  [
+   1789512900,
+   0.056379099926835555,
+   0.056658802185406476,
+   0.05616368065238325,
+   0.05630545688074944,
+   148.56309392482206
+  ],
+  [
+   1789513200,
+   0.05630545688074944,
+   0.056676042157816055,
+   0.0562048748207204,
+   0.05654396351017561,
+   336.2332165397977
+  ],
+  [
+   1789513500,
+   0.05654396351017561,
+   0.05657351770635627,
+   0.05621449710557856,
+   0.056531847025778466,
+   447.3447165894842
+  ],
+  [
+   1789513800,
+   0.056531847025778466,
+   0.05669394009115064,
+   0.05605073402079104,
+   0.05669394009115064,
+   3216.0675811539195
+  ],
+  [
+   1789514100,
+   0.05669394009115064,
+   0.05678537909423387,
+   0.05639055631801246,
+   0.05678537909423387,
+   1617.941869810623
+  ],
+  [
+   1789514400,
+   0.05678537909423387,
+   0.05681249898949241,
+   0.05678537909423387,
+   0.05681249898949241,
+   411.1981789767395
+  ],
+  [
+   1789514700,
+   0.05681249898949241,
+   0.05681249898949241,
+   0.056500609118566025,
+   0.05652781780878189,
+   1599.0813652003915
+  ],
+  [
+   1789515000,
+   0.05652781780878189,
+   0.056949376710263656,
+   0.05628221261532682,
+   0.05628221261532682,
+   50.018484786754264
+  ],
+  [
+   1789515300,
+   0.05628221261532682,
+   0.056570578105370556,
+   0.056243635296153706,
+   0.056243635296153706,
+   380.3998560868673
+  ],
+  [
+   1789515600,
+   0.056243635296153706,
+   0.056526108608315286,
+   0.05591542973443383,
+   0.05591542973443383,
+   5106.718215754419
+  ],
+  [
+   1789515900,
+   0.05591542973443383,
+   0.05636729159761034,
+   0.05591542973443383,
+   0.05636729159761034,
+   1353.61890284641
+  ],
+  [
+   1789516200,
+   0.05636729159761034,
+   0.056471169548091955,
+   0.05600956757788588,
+   0.056138619741245,
+   3374.943001085667
+  ],
+  [
+   1789516500,
+   0.056138619741245,
+   0.056536711344625235,
+   0.056138619741245,
+   0.05618250044395257,
+   126.21560642712836
+  ],
+  [
+   1789516800,
+   0.05618250044395257,
+   0.05618250044395257,
+   0.05590677072643379,
+   0.05590677072643379,
+   2798.0406452140624
+  ],
+  [
+   1789517100,
+   0.05590677072643379,
+   0.0562638068724586,
+   0.05589662581067246,
+   0.0562638068724586,
+   211.17460868136794
+  ],
+  [
+   1789517400,
+   0.0562638068724586,
+   0.056334903778321725,
+   0.055948224597546364,
+   0.056265502334419175,
+   1425.6627697512317
+  ],
+  [
+   1789517700,
+   0.056265502334419175,
+   0.056478417487107135,
+   0.055848580404338086,
+   0.05615760745464552,
+   94.36127659953523
+  ],
+  [
+   1789518000,
+   0.05615760745464552,
+   0.05627756247861702,
+   0.05594255734856995,
+   0.05627756247861702,
+   317.93490616900095
+  ],
+  [
+   1789518300,
+   0.05627756247861702,
+   0.05632603374924647,
+   0.05593961267495326,
+   0.05632603374924647,
+   33.01504253463915
+  ],
+  [
+   1789518600,
+   0.05632603374924647,
+   0.0566352873008536,
+   0.05632603374924647,
+   0.0564948142636344,
+   313.59724111868735
+  ],
+  [
+   1789518900,
+   0.0564948142636344,
+   0.0564948142636344,
+   0.055636051115372155,
+   0.05618596637903761,
+   15681.196351475197
+  ],
+  [
+   1789519200,
+   0.05618596637903761,
+   0.056543597906078755,
+   0.055753410949827276,
+   0.056182213008442235,
+   7887.490023888268
+  ],
+  [
+   1789519500,
+   0.056182213008442235,
+   0.05641190936186679,
+   0.05599036175782922,
+   0.05637441971304403,
+   2866.5506511090675
+  ],
+  [
+   1789519800,
+   0.05637441971304403,
+   0.056613235381229865,
+   0.05585534485675936,
+   0.05585534485675936,
+   1954.4640701763576
+  ],
+  [
+   1789520100,
+   0.05585534485675936,
+   0.05640462061261166,
+   0.05585534485675936,
+   0.05639756942222918,
+   1230.0726137038328
+  ],
+  [
+   1789520400,
+   0.05639756942222918,
+   0.05642612120665735,
+   0.05602466712184169,
+   0.0560754818291872,
+   266.24537576756273
+  ],
+  [
+   1789520700,
+   0.0560754818291872,
+   0.05634545470028582,
+   0.0560754818291872,
+   0.05616785722030696,
+   245.80218950962856
+  ],
+  [
+   1789521000,
+   0.05616785722030696,
+   0.0566032839262573,
+   0.0560152541203402,
+   0.05604840458964245,
+   2861.1816841452455
+  ],
+  [
+   1789521300,
+   0.05604840458964245,
+   0.05645849605630499,
+   0.05604840458964245,
+   0.05607602481353659,
+   895.477287206827
+  ],
+  [
+   1789521600,
+   0.05607602481353659,
+   0.05642340570471912,
+   0.056060667165007946,
+   0.05642340570471912,
+   241.34634486168372
+  ],
+  [
+   1789521900,
+   0.05642340570471912,
+   0.05673805312760598,
+   0.05642340570471912,
+   0.05664403274432221,
+   731.6398785921983
+  ],
+  [
+   1789522200,
+   0.05664403274432221,
+   0.05664403274432221,
+   0.0562199785942378,
+   0.0562199785942378,
+   377.8053356486065
+  ],
+  [
+   1789522500,
+   0.0562199785942378,
+   0.0562199785942378,
+   0.05562075502203059,
+   0.05606569234230711,
+   949.4769943077422
+  ],
+  [
+   1789522800,
+   0.05606569234230711,
+   0.05606569234230711,
+   0.05567662116829113,
+   0.05568719015070484,
+   576.5480765303331
+  ],
+  [
+   1789523100,
+   0.05568719015070484,
+   0.0560718072235374,
+   0.05550522901318363,
+   0.05550522901318363,
+   4711.83094470347
+  ],
+  [
+   1789523400,
+   0.05550522901318363,
+   0.0559328113101868,
+   0.05550522901318363,
+   0.05575967294821425,
+   2684.6574740381807
+  ],
+  [
+   1789523700,
+   0.05575967294821425,
+   0.0559675161381883,
+   0.05543551970145273,
+   0.05543551970145273,
+   995.2338932492313
+  ],
+  [
+   1789524000,
+   0.05543551970145273,
+   0.056082009565876265,
+   0.05543551970145273,
+   0.056080485131503974,
+   638.5989115959131
+  ],
+  [
+   1789524300,
+   0.056080485131503974,
+   0.05617539941034288,
+   0.055784026040701803,
+   0.05617539941034288,
+   1344.595548651228
+  ],
+  [
+   1789524600,
+   0.05617539941034288,
+   0.056253310225387765,
+   0.05572926852076885,
+   0.055730697472199976,
+   1123.1816869136935
+  ],
+  [
+   1789524900,
+   0.055730697472199976,
+   0.0562849265587709,
+   0.055729237495829774,
+   0.05624103594607619,
+   615.0733420856739
+  ],
+  [
+   1789525200,
+   0.05624103594607619,
+   0.05628700946966138,
+   0.05593230904277272,
+   0.05593317082425377,
+   767.3475190361354
+  ],
+  [
+   1789525500,
+   0.05593317082425377,
+   0.056350232265349076,
+   0.05593317082425377,
+   0.056350232265349076,
+   1928.4738151139472
+  ],
+  [
+   1789525800,
+   0.056350232265349076,
+   0.0564704656679456,
+   0.05609878744312061,
+   0.0564704656679456,
+   446.86120200728396
+  ],
+  [
+   1789526100,
+   0.0564704656679456,
+   0.05672972002338182,
+   0.05622064659006284,
+   0.05622064659006284,
+   850.035983649452
+  ],
+  [
+   1789526400,
+   0.05622064659006284,
+   0.05673281177790398,
+   0.05622064659006284,
+   0.05673281177790398,
+   97.02304140607194
+  ],
+  [
+   1789526700,
+   0.05673281177790398,
+   0.056816533775868046,
+   0.05639696048643923,
+   0.05643864079788442,
+   1641.4871274053587
+  ],
+  [
+   1789527000,
+   0.05643864079788442,
+   0.05687590730045194,
+   0.056378910965336586,
+   0.05687590730045194,
+   826.5639225941997
+  ],
+  [
+   1789527300,
+   0.05687590730045194,
+   0.05687590730045194,
+   0.05638021226980499,
+   0.05638021226980499,
+   1069.1659816892588
+  ],
+  [
+   1789527600,
+   0.05638021226980499,
+   0.05690736699186104,
+   0.05638021226980499,
+   0.05654288153917112,
+   2497.807130814315
+  ],
+  [
+   1789527900,
+   0.05654288153917112,
+   0.05717921076548478,
+   0.05654288153917112,
+   0.05655438187715856,
+   6296.67006280119
+  ],
+  [
+   1789528200,
+   0.05655438187715856,
+   0.056930673488474894,
+   0.05628258988300523,
+   0.056930673488474894,
+   3014.832284960014
+  ],
+  [
+   1789528500,
+   0.056930673488474894,
+   0.056930673488474894,
+   0.05642981954678815,
+   0.0564792407582554,
+   859.2919046459522
+  ],
+  [
+   1789528800,
+   0.0564792407582554,
+   0.056788727568317196,
+   0.056461336464625686,
+   0.056461336464625686,
+   24.23535115083806
+  ],
+  [
+   1789529100,
+   0.056461336464625686,
+   0.0566166529800243,
+   0.056461336464625686,
+   0.05647273899911091,
+   56.721563050758675
+  ],
+  [
+   1789529400,
+   0.05647273899911091,
+   0.05648868082074612,
+   0.05643288984484709,
+   0.05643288984484709,
+   22.339586927824254
+  ],
+  [
+   1789529700,
+   0.05643288984484709,
+   0.05674055704472282,
+   0.0563850068080622,
+   0.05674055704472282,
+   1210.3857525853953
+  ],
+  [
+   1789530000,
+   0.05674055704472282,
+   0.05688469244845042,
+   0.05625716688843126,
+   0.05637041884410505,
+   421.61199936719544
+  ],
+  [
+   1789530300,
+   0.05637041884410505,
+   0.05667526620198824,
+   0.056258892392310064,
+   0.05658425928039609,
+   287.00912475122146
+  ],
+  [
+   1789530600,
+   0.05658425928039609,
+   0.056638101523941616,
+   0.05626486268597801,
+   0.056638101523941616,
+   134.4426733896749
+  ],
+  [
+   1789530900,
+   0.056638101523941616,
+   0.056810199504740665,
+   0.056323973868318326,
+   0.05632604354526505,
+   194.5845581354308
+  ],
+  [
+   1789531200,
+   0.05632604354526505,
+   0.05633986803498152,
+   0.05618757519914889,
+   0.056335692961395734,
+   224.80570102302065
+  ],
+  [
+   1789531500,
+   0.056335692961395734,
+   0.05669231174548869,
+   0.056335692961395734,
+   0.05669231174548869,
+   162.7414750921535
+  ],
+  [
+   1789531800,
+   0.05669231174548869,
+   0.05669231174548869,
+   0.05625413799495765,
+   0.05625413799495765,
+   159.8118313295405
+  ],
+  [
+   1789532100,
+   0.05625413799495765,
+   0.05677826051747308,
+   0.05625413799495765,
+   0.05643684949923777,
+   972.4393277691458
+  ],
+  [
+   1789532400,
+   0.05643684949923777,
+   0.05690630545768917,
+   0.05643684949923777,
+   0.05690630545768917,
+   655.9143612918467
+  ],
+  [
+   1789532700,
+   0.05690630545768917,
+   0.0569444837448827,
+   0.05659865604226231,
+   0.05660324859807072,
+   235.51700438433468
+  ],
+  [
+   1789533000,
+   0.05660324859807072,
+   0.057074697348159086,
+   0.05645255589291789,
+   0.05658117909703406,
+   384.59581605428826
+  ],
+  [
+   1789533300,
+   0.05658117909703406,
+   0.056932268561802654,
+   0.05645629695741869,
+   0.05645629695741869,
+   74.58350500289666
+  ],
+  [
+   1789533600,
+   0.05645629695741869,
+   0.05709992717604907,
+   0.05645629695741869,
+   0.0566735302821442,
+   2726.9564940871146
+  ],
+  [
+   1789533900,
+   0.0566735302821442,
+   0.05708018625941009,
+   0.0566735302821442,
+   0.056721527784050464,
+   870.1020420606453
+  ],
+  [
+   1789534200,
+   0.056721527784050464,
+   0.056721527784050464,
+   0.05666815311920424,
+   0.05666815311920424,
+   107.00037575596383
+  ],
+  [
+   1789534500,
+   0.05666815311920424,
+   0.05700474023438118,
+   0.05660430069989199,
+   0.05665209950187428,
+   1126.9533097271926
+  ],
+  [
+   1789534800,
+   0.05665209950187428,
+   0.05701398132913532,
+   0.05649118877682471,
+   0.05649118877682471,
+   225.1738001141751
+  ],
+  [
+   1789535100,
+   0.05649118877682471,
+   0.056846934170827965,
+   0.05606955719291345,
+   0.05606955719291345,
+   7570.7504221473755
+  ],
+  [
+   1789535400,
+   0.05606955719291345,
+   0.056458223852704825,
+   0.05606955719291345,
+   0.056458223852704825,
+   673.6575292483113
+  ],
+  [
+   1789535700,
+   0.056458223852704825,
+   0.056481732036643875,
+   0.05610849789972234,
+   0.05610849789972234,
+   1222.7841133279844
+  ],
+  [
+   1789536000,
+   0.05610849789972234,
+   0.05640690540505697,
+   0.05604939453978012,
+   0.05604939453978012,
+   34.21158858389349
+  ],
+  [
+   1789536300,
+   0.05604939453978012,
+   0.05637278363636557,
+   0.05604939453978012,
+   0.05615783485398169,
+   474.67655797380576
+  ],
+  [
+   1789536600,
+   0.05615783485398169,
+   0.05647525617912154,
+   0.05613696948860357,
+   0.05646944259671215,
+   197.5398339618047
+  ],
+  [
+   1789536900,
+   0.05646944259671215,
+   0.05646944259671215,
+   0.05613167175962908,
+   0.05613167175962908,
+   111.38018173938089
+  ],
+  [
+   1789537200,
+   0.05613167175962908,
+   0.05644913657816314,
+   0.05613167175962908,
+   0.05644913657816314,
+   443.4914076048188
+  ],
+  [
+   1789537800,
+   0.05644913657816314,
+   0.0564735102278687,
+   0.055943254353132695,
+   0.05644562824434669,
+   1186.093241349736
+  ],
+  [
+   1789538100,
+   0.05644562824434669,
+   0.056633103181603084,
+   0.05611880301957881,
+   0.056633103181603084,
+   440.2157847791049
+  ],
+  [
+   1789538400,
+   0.056633103181603084,
+   0.056633103181603084,
+   0.056151575025060706,
+   0.056494252572387556,
+   155.62929985320577
+  ],
+  [
+   1789538700,
+   0.056494252572387556,
+   0.05653686959208078,
+   0.05615506105468897,
+   0.05653686959208078,
+   486.06498641785566
+  ],
+  [
+   1789539000,
+   0.05653686959208078,
+   0.05653686959208078,
+   0.056182602886337814,
+   0.05618585230362757,
+   1.2905260768421865
+  ],
+  [
+   1789539300,
+   0.05618585230362757,
+   0.056314560391616364,
+   0.056156496816283444,
+   0.05630260156591754,
+   250.74901055015482
+  ],
+  [
+   1789539600,
+   0.05630260156591754,
+   0.05649821090864301,
+   0.056116250677377556,
+   0.056445658200416436,
+   925.1760899024138
+  ],
+  [
+   1789539900,
+   0.056445658200416436,
+   0.05650292262772051,
+   0.056163035708926064,
+   0.05650258345866024,
+   549.0880887410993
+  ],
+  [
+   1789540200,
+   0.05650258345866024,
+   0.05656500940132011,
+   0.0561684695279444,
+   0.05622959939675503,
+   692.0542327007925
+  ],
+  [
+   1789540500,
+   0.05622959939675503,
+   0.056554792847899826,
+   0.056211440415565805,
+   0.0564367355709366,
+   736.7811288746082
+  ],
+  [
+   1789540800,
+   0.0564367355709366,
+   0.056480173198484564,
+   0.05609155708079722,
+   0.056094070347263325,
+   188.31869598127076
+  ],
+  [
+   1789541100,
+   0.056094070347263325,
+   0.056458359697621786,
+   0.056094070347263325,
+   0.05612175841672487,
+   287.78765412593003
+  ],
+  [
+   1789541400,
+   0.05612175841672487,
+   0.05649798109139325,
+   0.05612175841672487,
+   0.056150001981723235,
+   78.9951026363818
+  ],
+  [
+   1789541700,
+   0.056150001981723235,
+   0.056150001981723235,
+   0.056130055563057474,
+   0.05614567911834234,
+   67.20285545683743
+  ],
+  [
+   1789542000,
+   0.05614567911834234,
+   0.05663031024412419,
+   0.05608636146198656,
+   0.05663031024412419,
+   40.15730461719465
+  ],
+  [
+   1789542300,
+   0.05663031024412419,
+   0.056633538459878445,
+   0.05630524117600119,
+   0.056633538459878445,
+   54.519479099599785
+  ],
+  [
+   1789542600,
+   0.056633538459878445,
+   0.05664273649474463,
+   0.05628889560680631,
+   0.05629474910500742,
+   424.5242719216268
+  ],
+  [
+   1789542900,
+   0.05629474910500742,
+   0.05664125567235753,
+   0.05629474910500742,
+   0.05631225454549964,
+   443.5013775376694
+  ],
+  [
+   1789543200,
+   0.05631225454549964,
+   0.056659350491030075,
+   0.05612806964222931,
+   0.0565643119026715,
+   531.3344453939305
+  ],
+  [
+   1789543500,
+   0.0565643119026715,
+   0.05670292846144673,
+   0.05631781550835203,
+   0.0563564955888254,
+   814.856386759639
+  ],
+  [
+   1789543800,
+   0.0563564955888254,
+   0.0563564955888254,
+   0.05632046810934714,
+   0.05632046810934714,
+   17.18113624861938
+  ],
+  [
+   1789544100,
+   0.05632046810934714,
+   0.05665354553752834,
+   0.05632046810934714,
+   0.05665354553752834,
+   18.35496999452222
+  ],
+  [
+   1789544400,
+   0.05665354553752834,
+   0.05676416095695557,
+   0.05628571418119439,
+   0.05676416095695557,
+   2720.7475895740477
+  ],
+  [
+   1789544700,
+   0.05676416095695557,
+   0.05677460379868653,
+   0.05643081236521602,
+   0.05643081236521602,
+   364.05253345115295
+  ],
+  [
+   1789545000,
+   0.05643081236521602,
+   0.05692161871433107,
+   0.0562937423148363,
+   0.05641151575790548,
+   457.22641008433607
+  ],
+  [
+   1789545300,
+   0.05641151575790548,
+   0.056746194281481414,
+   0.05639900426531558,
+   0.056746194281481414,
+   296.338347290913
+  ],
+  [
+   1789545600,
+   0.056746194281481414,
+   0.056746194281481414,
+   0.05626080778667967,
+   0.056645495959956466,
+   1032.1018294883852
+  ],
+  [
+   1789545900,
+   0.056645495959956466,
+   0.056645495959956466,
+   0.056069872831678635,
+   0.05608699150273135,
+   125.07793768290497
+  ],
+  [
+   1789546200,
+   0.05608699150273135,
+   0.05622147925212939,
+   0.05596637671617371,
+   0.05612203526961585,
+   76.61456082057572
+  ],
+  [
+   1789546500,
+   0.05612203526961585,
+   0.05613210155245305,
+   0.05611465889013396,
+   0.056125861860334816,
+   159.8050369638409
+  ],
+  [
+   1789546800,
+   0.056125861860334816,
+   0.05616705272436166,
+   0.05602625177992746,
+   0.05616705272436166,
+   15.42347210757374
+  ],
+  [
+   1789547100,
+   0.05616705272436166,
+   0.05665440056836586,
+   0.05616705272436166,
+   0.05617601808167037,
+   170.67763159511767
+  ],
+  [
+   1789547400,
+   0.05617601808167037,
+   0.05652311770219615,
+   0.05603507706555896,
+   0.056120019749895625,
+   1558.1579272082322
+  ],
+  [
+   1789547700,
+   0.056120019749895625,
+   0.056473258777480946,
+   0.05610347929986694,
+   0.05612835834987225,
+   1243.1270783915386
+  ],
+  [
+   1789548000,
+   0.05612835834987225,
+   0.056589023682416355,
+   0.05597377981946001,
+   0.056118385905923995,
+   706.0588217494312
+  ],
+  [
+   1789548300,
+   0.056118385905923995,
+   0.05647917953283386,
+   0.056118385905923995,
+   0.05647917953283386,
+   45.155507024683054
+  ],
+  [
+   1789548600,
+   0.05647917953283386,
+   0.0565275198115625,
+   0.05618720380529403,
+   0.05618853902344031,
+   1637.1486401499828
+  ],
+  [
+   1789548900,
+   0.05618853902344031,
+   0.05619043508695566,
+   0.056171551778767224,
+   0.05617362994614808,
+   64.64629832726273
+  ],
+  [
+   1789549200,
+   0.05617362994614808,
+   0.05655425803438528,
+   0.056158416381068055,
+   0.05621413251755705,
+   225.28241195594646
+  ],
+  [
+   1789549500,
+   0.05621413251755705,
+   0.05626895329953662,
+   0.05621413251755705,
+   0.05625715994411394,
+   427.9520191346481
+  ],
+  [
+   1789549800,
+   0.05625715994411394,
+   0.05625715994411394,
+   0.05620894446729176,
+   0.05621412058121551,
+   521.8747800877209
+  ],
+  [
+   1789550100,
+   0.05621412058121551,
+   0.05625869091240977,
+   0.05621412058121551,
+   0.05625869091240977,
+   22.76451843481691
+  ],
+  [
+   1789550400,
+   0.05625869091240977,
+   0.056829703998811675,
+   0.05625869091240977,
+   0.056317625872342354,
+   2606.836711100409
+  ],
+  [
+   1789550700,
+   0.056317625872342354,
+   0.05643707667943693,
+   0.056300760871900404,
+   0.05630416971962531,
+   149.51632812584847
+  ],
+  [
+   1789551000,
+   0.05630416971962531,
+   0.056689841889446146,
+   0.05630416971962531,
+   0.056689841889446146,
+   328.9024455964608
+  ],
+  [
+   1789551300,
+   0.056689841889446146,
+   0.056692904909587324,
+   0.05633904775770747,
+   0.05633904775770747,
+   45.30460457862302
+  ],
+  [
+   1789551600,
+   0.05633904775770747,
+   0.05636370324961862,
+   0.05633904775770747,
+   0.05636370324961862,
+   4.025800388267529
+  ],
+  [
+   1789551900,
+   0.05636370324961862,
+   0.056501666246241804,
+   0.056356531117744586,
+   0.056365026696095936,
+   98.02023923796779
+  ],
+  [
+   1789552200,
+   0.056365026696095936,
+   0.05673253930752485,
+   0.056365026696095936,
+   0.05640100184049491,
+   653.8291434474501
+  ],
+  [
+   1789552500,
+   0.05640100184049491,
+   0.056742824854506276,
+   0.05639584587172735,
+   0.056742824854506276,
+   357.63482200461334
+  ],
+  [
+   1789552800,
+   0.056742824854506276,
+   0.056744012236852145,
+   0.0563718771884552,
+   0.056414102647552936,
+   197.78032466986699
+  ],
+  [
+   1789553100,
+   0.056414102647552936,
+   0.0564171463922592,
+   0.056414102647552936,
+   0.0564171463922592,
+   14.179900186271343
+  ],
+  [
+   1789553400,
+   0.0564171463922592,
+   0.05653950812123176,
+   0.05627012064256726,
+   0.05627012064256726,
+   1127.2832086531432
+  ],
+  [
+   1789553700,
+   0.05627012064256726,
+   0.056623987422105844,
+   0.05626877127842783,
+   0.056623987422105844,
+   164.20790726970984
+  ],
+  [
+   1789554000,
+   0.056623987422105844,
+   0.05676164380263741,
+   0.0561446086479878,
+   0.05643184506486832,
+   824.9061538042604
+  ],
+  [
+   1789554300,
+   0.05643184506486832,
+   0.05668778764474814,
+   0.0562390540189279,
+   0.05668778764474814,
+   1087.5338856915837
+  ],
+  [
+   1789554600,
+   0.05668778764474814,
+   0.05668778764474814,
+   0.05629521735327776,
+   0.05643711439323055,
+   113.93446508374726
+  ],
+  [
+   1789554900,
+   0.05643711439323055,
+   0.05643711439323055,
+   0.05628814861731619,
+   0.05628814861731619,
+   57.238120453247205
+  ],
+  [
+   1789555200,
+   0.05628814861731619,
+   0.05684433810112233,
+   0.05628814861731619,
+   0.05684433810112233,
+   1125.190499951907
+  ],
+  [
+   1789555500,
+   0.05684433810112233,
+   0.05688699094622696,
+   0.05622126179933714,
+   0.056299738133571586,
+   1569.752929866415
+  ],
+  [
+   1789555800,
+   0.056299738133571586,
+   0.056591232997000175,
+   0.056299738133571586,
+   0.05645392166055256,
+   67.3312808489066
+  ],
+  [
+   1789556100,
+   0.05645392166055256,
+   0.056821720638947186,
+   0.05642560480484561,
+   0.05645225166846382,
+   2149.8962814900383
+  ],
+  [
+   1789556400,
+   0.05645225166846382,
+   0.05684479081430269,
+   0.056452051211453316,
+   0.05678447747421736,
+   2360.39328821181
+  ],
+  [
+   1789556700,
+   0.05678447747421736,
+   0.0567965886600416,
+   0.05643431996454332,
+   0.05644685032750028,
+   415.30966214528155
+  ]
+ ],
+ "totals": {
+  "price": 0.05674,
+  "marketCap": 231768,
+  "window_from": "2026-09-16T07:46:54Z",
+  "window_to": "2026-09-16T11:04:12Z",
+  "window_hours": 3.29,
+  "trades": 413,
+  "wallets": 226,
+  "buyUsd": 21299.570351973092,
+  "sellUsd": 21209.02294856792,
+  "imbalance": 0.0021300964434412535,
+  "largest": {
+   "ts": "2026-09-16T10:47:19Z",
+   "side": "buy",
+   "usd": 1434.030441769104,
+   "wallet": "HheiT7HCF7wv9vZrdBLuq1rUKQed4Hi1iW95CfMLY8kX",
+   "pool": "xSOL / SOL"
+  },
+  "poolsTotal": 20,
+  "poolsTraded": 20,
+  "liquidityTraded": 552643.8789,
+  "buyersH24": 2592,
+  "sellersH24": 3044
+ },
+ "ohlcv_pool": "xSOL / SOL",
+ "coverage": [
+  {
+   "pool": "xSOL / LEVERCAT",
+   "from": "2026-09-16T02:34:25Z",
+   "to": "2026-09-16T11:05:19Z",
+   "hours": 8.52,
+   "trades": 300
+  },
+  {
+   "pool": "xSOL / SOL",
+   "from": "2026-09-16T07:46:54Z",
+   "to": "2026-09-16T11:07:39Z",
+   "hours": 3.35,
+   "trades": 300
+  },
+  {
+   "pool": "xSOL / USDC",
+   "from": "2026-09-15T19:01:52Z",
+   "to": "2026-09-16T11:04:12Z",
+   "hours": 16.04,
+   "trades": 300
+  }
+ ],
+ "window": {
+  "mode": "intersection",
+  "from": "2026-09-16T07:46:54Z",
+  "to": "2026-09-16T11:04:12Z",
+  "hours": 3.29,
+  "pools": 3,
+  "dropped": 487,
+  "raw_from": "2026-09-15T19:01:52Z",
+  "raw_to": "2026-09-16T11:07:39Z",
+  "raw_hours": 16.1,
+  "axis_valid": true
+ },
+ "wallets": [
+  {
+   "w": "8ce3g9VC6M4Prk6kfLazrYz6q9GGthNE4r4dmuQAHkke",
+   "n": 3,
+   "buy": 2237.898226882196,
+   "sell": 1038.9051214674964,
+   "net": 1198.9931054146996
+  },
+  {
+   "w": "HheiT7HCF7wv9vZrdBLuq1rUKQed4Hi1iW95CfMLY8kX",
+   "n": 2,
+   "buy": 1434.030441769104,
+   "sell": 1419.9817038245187,
+   "net": 14.048737944585355
+  },
+  {
+   "w": "FNKf7DmvU3hkbtpLDw1LctZ63Cou6Nte9cPSsayKmdtZ",
+   "n": 2,
+   "buy": 1307.304026920423,
+   "sell": 1305.6946349439945,
+   "net": 1.6093919764284692
+  },
+  {
+   "w": "5UYStaugckZXiWqiyj41cAY6iQHJWRcUi12716GKUc3W",
+   "n": 3,
+   "buy": 1152.201050514002,
+   "sell": 1099.8310287722177,
+   "net": 52.370021741784285
+  },
+  {
+   "w": "CPK7JrooiYRyuDJdaipR9uBVt1zC9jLSfgkH1qJEmWRi",
+   "n": 2,
+   "buy": 997.9461782661134,
+   "sell": 995.5015104932513,
+   "net": 2.44466777286209
+  },
+  {
+   "w": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD",
+   "n": 3,
+   "buy": 1721.9973530808418,
+   "sell": 0.0,
+   "net": 1721.9973530808418
+  },
+  {
+   "w": "HjwJmEvic5igeCqvzog3mF1b1Rjd3haWasdfCASzXKo2",
+   "n": 2,
+   "buy": 808.856753291456,
+   "sell": 803.0320349091386,
+   "net": 5.824718382317428
+  },
+  {
+   "w": "4ZgLmd9rv3TJTSXD2C2BowV6b5782mUxoB2e8fwYYoWG",
+   "n": 2,
+   "buy": 788.2884900388592,
+   "sell": 786.742485560894,
+   "net": 1.546004477965198
+  },
+  {
+   "w": "GL8gf7VZjLYvX7k7AuR1YTtvTxsCGqZTYJqxaUauA7JV",
+   "n": 2,
+   "buy": 738.5398870398955,
+   "sell": 717.962534174542,
+   "net": 20.57735286535342
+  },
+  {
+   "w": "CBVVn571DTYJ3Ebh7U2SGjYrLgbKtv74QmpFcV8cAjfo",
+   "n": 5,
+   "buy": 684.9929485135729,
+   "sell": 661.6868585770496,
+   "net": 23.30608993652322
+  },
+  {
+   "w": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+   "n": 9,
+   "buy": 310.47862464166786,
+   "sell": 759.3693534235709,
+   "net": -448.8907287819031
+  },
+  {
+   "w": "Bdrs3hKcEe4PpM91risoYm5YKceQ7tsaovs4otog6HBz",
+   "n": 2,
+   "buy": 534.996723919883,
+   "sell": 503.5058140326159,
+   "net": 31.49090988726715
+  },
+  {
+   "w": "FvLgucDoeapn3bVKBQ7XXKeUvCQqY5TiTRx459YtVLwX",
+   "n": 2,
+   "buy": 492.4559103274913,
+   "sell": 489.41756419481317,
+   "net": 3.038346132678157
+  },
+  {
+   "w": "gh7gW8FtC8ygPnM8GMPtaufTXenNvck8Fi4cR2Up82w",
+   "n": 2,
+   "buy": 487.91256044783694,
+   "sell": 481.31587414011716,
+   "net": 6.596686307719779
+  },
+  {
+   "w": "HTM87R4mgjDdiF6Yfn8duK9vbDmZxiPCTRbGvm7eCAJY",
+   "n": 4,
+   "buy": 486.40726326595023,
+   "sell": 387.3646558919554,
+   "net": 99.04260737399483
+  },
+  {
+   "w": "7GhWwhaMgbKiRWxF93Bud6HnHMci6NCLTJyTxG8zFH51",
+   "n": 2,
+   "buy": 387.7625203292233,
+   "sell": 423.1914100483908,
+   "net": -35.4288897191675
+  },
+  {
+   "w": "JAbcgkwZouF636SUCyCukRD8iqetvWMjVibfs7y1Y2Rn",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 666.1981376383533,
+   "net": -666.1981376383533
+  },
+  {
+   "w": "AV7PjXHL5JXZ1YoYRoN9Dsstg1x2UciBupMCXcJP8gUz",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 663.0846683319057,
+   "net": -663.0846683319057
+  },
+  {
+   "w": "6caQasnFLDWRHZv15Nr6wjrQyfBFq2XuzCVfYEzVbvVw",
+   "n": 2,
+   "buy": 289.17604248760796,
+   "sell": 286.01932039079423,
+   "net": 3.1567220968137235
+  },
+  {
+   "w": "EQpByMhz7Tm53EuKVdA3WsWrcxYwaguT4DaewTt6s9EG",
+   "n": 2,
+   "buy": 282.04361416197656,
+   "sell": 280.07818466172205,
+   "net": 1.9654295002545155
+  },
+  {
+   "w": "HvFdDWS3RqymRAVx1ZdoL2RjiC38r5dtt19Z8op5jqDK",
+   "n": 2,
+   "buy": 279.397153919516,
+   "sell": 280.77093178260645,
+   "net": -1.3737778630904813
+  },
+  {
+   "w": "XKxfSPMdLEEkgewQnxzP1gEqBDoGCiv34jUUoDPeqAS",
+   "n": 3,
+   "buy": 534.5574684261517,
+   "sell": 7.797574923375065,
+   "net": 526.7598935027767
+  },
+  {
+   "w": "6r9A4A2FgMyVirgh9irfTuweE5YSKgkkAsmLEXgeNWUr",
+   "n": 4,
+   "buy": 288.9810152954742,
+   "sell": 233.1834883287284,
+   "net": 55.79752696674581
+  },
+  {
+   "w": "ETsW1ZwXgCB1o4ECYiJzX7KJXkvyAzRnoMYam7uNQP5t",
+   "n": 2,
+   "buy": 230.12342149417748,
+   "sell": 229.92737712206213,
+   "net": 0.19604437211535242
+  },
+  {
+   "w": "4PWaksfn9uM2c5oHQQ16odCazKp3KkLMD4Bhtmg5qCVg",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 435.99522951644184,
+   "net": -435.99522951644184
+  },
+  {
+   "w": "9su3UPQW3txjtKDZAkf2Kdimp5tEb9TM6hnJrGC1U7pY",
+   "n": 6,
+   "buy": 183.21102552673125,
+   "sell": 175.09774311328127,
+   "net": 8.11328241344998
+  },
+  {
+   "w": "89ZocEGDuNdLzA9LK2nB68hf5SfqGCdQiYWNxzqCipKm",
+   "n": 3,
+   "buy": 72.4050068892137,
+   "sell": 285.47031375046413,
+   "net": -213.06530686125043
+  },
+  {
+   "w": "6nXJzs4FhE6Tx6wdvLSaH68gz8cXnYGPNXxUMjRhDxqw",
+   "n": 5,
+   "buy": 171.70318230241122,
+   "sell": 173.19854820745402,
+   "net": -1.495365905042803
+  },
+  {
+   "w": "2FxfTEUaLyTPjZr5KDHwtuhZDhnPYVn2NnGpWR6LfBBN",
+   "n": 4,
+   "buy": 174.33773287324843,
+   "sell": 170.2231913743463,
+   "net": 4.114541498902128
+  },
+  {
+   "w": "C5EMTGGE87SqLyuvhShLDMj2jUBwqBLJAZF6ybK8Jyqw",
+   "n": 4,
+   "buy": 184.62573494097268,
+   "sell": 153.79530299023446,
+   "net": 30.830431950738216
+  },
+  {
+   "w": "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+   "n": 6,
+   "buy": 182.1645058842464,
+   "sell": 147.1427226373292,
+   "net": 35.02178324691721
+  },
+  {
+   "w": "5MztePcdvyzJr4Dd1Wj15scXEeddst1sMp759aNWf7gm",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 325.5716784801438,
+   "net": -325.5716784801438
+  },
+  {
+   "w": "DRBLxRXp5xUk6qQAGMyoau7ngrqnTv8mYEa8Dce338aH",
+   "n": 6,
+   "buy": 154.6098775597652,
+   "sell": 129.52798639921826,
+   "net": 25.081891160546945
+  },
+  {
+   "w": "4GLm1M7nhwZCo7A88jdDZoWfKvN3KAyRDMpAnHUhQjWF",
+   "n": 2,
+   "buy": 130.44325952148745,
+   "sell": 131.33102810387686,
+   "net": -0.8877685823894126
+  },
+  {
+   "w": "z1PXUpQYGAe7235x8gvcukqFMmaQznHvA8PPx12eL9R",
+   "n": 2,
+   "buy": 121.79533195433547,
+   "sell": 121.4990143021179,
+   "net": 0.29631765221756723
+  },
+  {
+   "w": "4QWvEDZDqfvmfhgQhkU1Ct9WYtuBxzZ7ssFGfrowSqky",
+   "n": 2,
+   "buy": 117.76403942781296,
+   "sell": 116.77121876232418,
+   "net": 0.9928206654887788
+  },
+  {
+   "w": "6FVXroBP8KxrshDE3PCKBpamyVJpT9vSo8CarRSWnRD5",
+   "n": 3,
+   "buy": 126.46588844914706,
+   "sell": 80.86698169872253,
+   "net": 45.59890675042453
+  },
+  {
+   "w": "6KaLh6eZamhaEksNEv2vutSk5n3GdtL1YY1y98vJRhG3",
+   "n": 8,
+   "buy": 75.9214549989506,
+   "sell": 131.32930426379716,
+   "net": -55.40784926484656
+  },
+  {
+   "w": "3EGiRjSeTz1o8wKfqYb6wREYkutGsu9NNdg2iJLEAKvD",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 199.05513183929003,
+   "net": -199.05513183929003
+  },
+  {
+   "w": "ErDjvdR4eKupwgEvGA6JAX5rbLHEzcHQ6QXsTdkD8pgX",
+   "n": 2,
+   "buy": 98.81714645463961,
+   "sell": 98.18714676535969,
+   "net": 0.6299996892799271
+  },
+  {
+   "w": "iQ3aRn1U5oTBnn1aGjcjmxJUWhCryKQZekyNGa9V59b",
+   "n": 2,
+   "buy": 96.34537207032467,
+   "sell": 94.16207104471364,
+   "net": 2.18330102561103
+  },
+  {
+   "w": "3ZCLJRYVEf6fjtBc7xsYgibCmXbrS7WKrGCBPF6UFTF3",
+   "n": 2,
+   "buy": 96.15060420114017,
+   "sell": 94.12330660016494,
+   "net": 2.0272976009752313
+  },
+  {
+   "w": "9gk3DNFBkTh4UTjatkdzsPkgbAMmrFEFp3Lftj6Ckt5k",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 185.1390871454721,
+   "net": -185.1390871454721
+  },
+  {
+   "w": "2u1ooSwe8fjs137gxTQRgM5YDjnJ8kfFuRJJw4i4dtiM",
+   "n": 4,
+   "buy": 58.07871303270808,
+   "sell": 117.17263440484501,
+   "net": -59.09392137213693
+  },
+  {
+   "w": "H6PjRLnqGPz5VEU4roZzKnfJRxKECRzYuJAZ2Hvc1rAc",
+   "n": 3,
+   "buy": 116.42420553369544,
+   "sell": 54.39450943147085,
+   "net": 62.02969610222459
+  },
+  {
+   "w": "GeZBYXvU89LKTWZ9oHHaUoPAhJfcqoT5TS3VdkYyXoAj",
+   "n": 1,
+   "buy": 170.64888636858072,
+   "sell": 0.0,
+   "net": 170.64888636858072
+  },
+  {
+   "w": "G4yZ1n6n4k2zHtnxvT5yXPGyF693SRizaH1VbdDXzJex",
+   "n": 1,
+   "buy": 169.83146164958538,
+   "sell": 0.0,
+   "net": 169.83146164958538
+  },
+  {
+   "w": "goodu4F4uxXSvh62HsAfVTZhxFZmwyjtsC9h7xokSxt",
+   "n": 7,
+   "buy": 87.75480286526883,
+   "sell": 65.1206984150174,
+   "net": 22.634104450251428
+  },
+  {
+   "w": "EsDMBHvKFrRWovhXxrYkWCgNmjJZ1ZwAtm7LtKVnHaAp",
+   "n": 2,
+   "buy": 148.99293939101617,
+   "sell": 0.0,
+   "net": 148.99293939101617
+  },
+  {
+   "w": "7KPhAsKH9d2BEoHAfkAqurPfk5Db2Uf82H4NeppSnwu8",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 145.73607270122903,
+   "net": -145.73607270122903
+  },
+  {
+   "w": "D9GEFKo4rD7JiSR4jvkM3AtqkYcmLcbZdQmPL8SrS5GY",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 143.89053276615437,
+   "net": -143.89053276615437
+  },
+  {
+   "w": "EwoZMHUNDRNrAgG5WEMMKMfgEQn2paQ6oT7QZtoK2mLd",
+   "n": 2,
+   "buy": 71.95766236228165,
+   "sell": 71.39479331070868,
+   "net": 0.5628690515729744
+  },
+  {
+   "w": "CAAFJsR8m9GEzmFrRGzyb8UH8WDVMMELsEfUjx7pxwZw",
+   "n": 2,
+   "buy": 69.86596183278395,
+   "sell": 69.51711760125174,
+   "net": 0.3488442315322118
+  },
+  {
+   "w": "goodfTa7hHEK3G9dWppbobf8jsRZRB2foTKDWMuNNTN",
+   "n": 6,
+   "buy": 65.81878050568565,
+   "sell": 65.25843220407955,
+   "net": 0.5603483016060977
+  },
+  {
+   "w": "HvYK3PHiza8xZh8gEx3io1oUuePRwrazsFjN9F62MspD",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 129.11590235214098,
+   "net": -129.11590235214098
+  },
+  {
+   "w": "9ZsMghjc4KxACfwktAJpJn2fhxUXDU5XCsAhYPdsfdAz",
+   "n": 1,
+   "buy": 123.06685582052079,
+   "sell": 0.0,
+   "net": 123.06685582052079
+  },
+  {
+   "w": "DzrgxxX2KPyfuf48zEWKxyJGkN9Ph65JJGTnEqbTYdji",
+   "n": 1,
+   "buy": 114.6209816156362,
+   "sell": 0.0,
+   "net": 114.6209816156362
+  },
+  {
+   "w": "7nwPXZNhBj88jcC22VNBQUYLohTsQWh5VGxWqnAAcvMf",
+   "n": 2,
+   "buy": 113.17322375864367,
+   "sell": 0.0,
+   "net": 113.17322375864367
+  },
+  {
+   "w": "55Rw6G6CryMeRtvUWkUh6L8gi4HkUwJBzp5KsZeJaNmu",
+   "n": 1,
+   "buy": 112.63105108486815,
+   "sell": 0.0,
+   "net": 112.63105108486815
+  },
+  {
+   "w": "DrDq7dzeAuZwzA8WG6za9zD7u8KDdx5f53vRYcVJn1uX",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 112.15031221888718,
+   "net": -112.15031221888718
+  },
+  {
+   "w": "HGjvvRoLatgcsAzuHEMEDeVq7s9riWFuD8ABkxB9SHXe",
+   "n": 2,
+   "buy": 55.87693711365516,
+   "sell": 52.61566399375105,
+   "net": 3.2612731199041107
+  },
+  {
+   "w": "FUvA8HCavf1jAg6wNEtteUFUNHiU9DnP5g7QobKtqM8w",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 106.74915494619421,
+   "net": -106.74915494619421
+  },
+  {
+   "w": "ENB3ybznZiK25vMUmrvLKUiW2hV59SYEVRPVpFbQCapz",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 106.4204673238052,
+   "net": -106.4204673238052
+  },
+  {
+   "w": "458aGtmE9UzRhA94hz743NyRv8p7zxNbjcgxV1m8Ukre",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 101.57908383899934,
+   "net": -101.57908383899934
+  },
+  {
+   "w": "2tWW1kEUpZnw1gotNcFQJfT6pihRBpnrYPPwZ6HvHCec",
+   "n": 2,
+   "buy": 100.11154090552392,
+   "sell": 0.0,
+   "net": 100.11154090552392
+  },
+  {
+   "w": "BrnwRA6GBVDGj8vzw8UUkmQXHsxVMwXGGugTBh2KJ64q",
+   "n": 2,
+   "buy": 47.88568882509408,
+   "sell": 47.80328328660087,
+   "net": 0.0824055384932052
+  },
+  {
+   "w": "6YBdBu9GsNibqVRSzsqweLFLPKvpBwyoiUgH7vzQTpgN",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 95.64969316242811,
+   "net": -95.64969316242811
+  },
+  {
+   "w": "3qE6wmLCWya2g4BbXeGM65aEU8oV3a97tDAzSuRQd2sz",
+   "n": 2,
+   "buy": 48.636486944595404,
+   "sell": 45.92149301143898,
+   "net": 2.7149939331564212
+  },
+  {
+   "w": "AsSvVv4SNwSSfYqb3KEGie5w9sj89wd6PGC2KmBsxY4L",
+   "n": 2,
+   "buy": 48.15770566270634,
+   "sell": 45.76173203164962,
+   "net": 2.3959736310567195
+  },
+  {
+   "w": "5CEbueQnq1Ym2uSSx2xXds3jQAqT1BDnkA59RZobSPAG",
+   "n": 7,
+   "buy": 0.0,
+   "sell": 92.89260651519145,
+   "net": -92.89260651519145
+  },
+  {
+   "w": "3uYo5Gp8preHycLLCvRkGop71wcGN7qQ1okoFizNFcjT",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 87.67038660038273,
+   "net": -87.67038660038273
+  },
+  {
+   "w": "5aSREChH7nDfotcvgVwRt7HJ4ZFx3K5qaV8EjeGtYR2Y",
+   "n": 1,
+   "buy": 84.48612109758521,
+   "sell": 0.0,
+   "net": 84.48612109758521
+  },
+  {
+   "w": "5qEv7QHS6DozTBPBEf1NJbH2ZPRTEPWPyV8Bx89Voniy",
+   "n": 1,
+   "buy": 84.30292620142751,
+   "sell": 0.0,
+   "net": 84.30292620142751
+  },
+  {
+   "w": "CKExf9W771xdCbUp6Cq2vgGgWtTWaKvpMyyVCpYbE5UY",
+   "n": 2,
+   "buy": 39.564593631682975,
+   "sell": 41.17779320109204,
+   "net": -1.613199569409062
+  },
+  {
+   "w": "4wNafEgMAVXZGxyUDJtAMsnU42Un3iZKgWLb8N33z72y",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 75.12564077441675,
+   "net": -75.12564077441675
+  },
+  {
+   "w": "7pRNgVbDf1LCctG6tyBDTvktEt97SFgnxNEXj82U2tY7",
+   "n": 2,
+   "buy": 73.85349918817153,
+   "sell": 0.0,
+   "net": 73.85349918817153
+  },
+  {
+   "w": "HYiizDz6q6ZQn15Xgae8rg9iiQEnowr5uqYRXTwhkB4t",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 73.30214958010838,
+   "net": -73.30214958010838
+  },
+  {
+   "w": "GW9Bp67tkr2TX8N5z3wsPcfUo4gCp7zgJwMVjX1VVX3v",
+   "n": 2,
+   "buy": 33.23966003994308,
+   "sell": 31.344095694346382,
+   "net": 1.8955643455967
+  },
+  {
+   "w": "AXSetJiP5cU58t4sYCFChE7HQjUEN53qCFRjAYhB4t33",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 61.15490218586942,
+   "net": -61.15490218586942
+  },
+  {
+   "w": "BeFdjY7E4buEXoq8jYqqKPhk92NNanbmtj6cdivbeff3",
+   "n": 1,
+   "buy": 58.18916405940756,
+   "sell": 0.0,
+   "net": 58.18916405940756
+  },
+  {
+   "w": "H1vq1C1KuzuCTymXF8xwLUgvXFCwQVSo8pVDGfrChKUC",
+   "n": 1,
+   "buy": 55.29419061364253,
+   "sell": 0.0,
+   "net": 55.29419061364253
+  },
+  {
+   "w": "9425Myzns5n1h4KYQyRK6A67b8AcY1xYMLyva3ECeDb9",
+   "n": 2,
+   "buy": 27.689779139175275,
+   "sell": 27.510330861713758,
+   "net": 0.1794482774615176
+  },
+  {
+   "w": "GFxs64qmJerhLzzJR5E6y6rTU1N6NP1uSTUrHbwYegzh",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 54.732301505864896,
+   "net": -54.732301505864896
+  },
+  {
+   "w": "7k5WLRVYcMCg6LFXLrhFs8656HWyQkfi9UjmDbnniQdh",
+   "n": 4,
+   "buy": 52.28570141126486,
+   "sell": 0.0,
+   "net": 52.28570141126486
+  },
+  {
+   "w": "C6HKwC4RBHGEKHgWqMXwyLpYFDqCMPat34DpD4YJUxqC",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 51.129188651185366,
+   "net": -51.129188651185366
+  },
+  {
+   "w": "5KG7NoMvqCr8hioGbBDRSVj84rDU2p1uDGX87K4dQPrZ",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 49.85746365399497,
+   "net": -49.85746365399497
+  },
+  {
+   "w": "HRguKsemz6BGURLNBPar8ejjj7fRo3FQKbfjpdcEvdLW",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 49.68697682628462,
+   "net": -49.68697682628462
+  },
+  {
+   "w": "3MipB7G8MiuCVNnyoW7hDmEvncvzTWaAo6N32m3oYJJs",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 49.58397388680216,
+   "net": -49.58397388680216
+  },
+  {
+   "w": "Dd5SApUhbx8duukubWvMmzz6iB4wNSyx8Y41xSEMU46T",
+   "n": 2,
+   "buy": 25.11099149958363,
+   "sell": 23.59717281355216,
+   "net": 1.5138186860314704
+  },
+  {
+   "w": "CjhNJhTc1gazBdB198rLYjrd4t7J8kB6iZXCQL17k8WK",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 48.1571979167752,
+   "net": -48.1571979167752
+  },
+  {
+   "w": "goodRTLNjkFbP8WmAxPeutixwftKtyM84X37RmZjkss",
+   "n": 2,
+   "buy": 22.074816142381582,
+   "sell": 21.88518101824537,
+   "net": 0.1896351241362133
+  },
+  {
+   "w": "8LrjN3Y1v1RHDUwpCQHMGqbdys5XA7yYirLCzVuxbWjf",
+   "n": 2,
+   "buy": 22.03342255298443,
+   "sell": 21.895575784021204,
+   "net": 0.13784676896322523
+  },
+  {
+   "w": "EVB9oDBj1KsgURPywX9Rb6AGaW5WpRDYwzfy6LmhUjMC",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 42.47283305994909,
+   "net": -42.47283305994909
+  },
+  {
+   "w": "FF6vsaUcp4s95Q5NNm7VZ7deZU6gBU2vZmaiyQ36Ymrc",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 41.742992903250794,
+   "net": -41.742992903250794
+  },
+  {
+   "w": "DPAghrNgkW4m5HMBL3kVsiCm9ywhrBtCutc6tSSvicx8",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 41.19595829206226,
+   "net": -41.19595829206226
+  },
+  {
+   "w": "KVpaisngDVWBr8m6UF2xMhiYQ49nCuvjq81PvJqSmdr",
+   "n": 3,
+   "buy": 18.58361356243199,
+   "sell": 21.13421593034679,
+   "net": -2.550602367914802
+  },
+  {
+   "w": "3AxsF6zkanJX3NQo9851K8eJbehmEnD9emARyzpvFpVP",
+   "n": 2,
+   "buy": 23.947825250984828,
+   "sell": 15.125728674203865,
+   "net": 8.822096576780963
+  },
+  {
+   "w": "2iRoupptGC1vbe23GPoJr7Dv6QvxkSJVKfTgKwHoTZ66",
+   "n": 2,
+   "buy": 19.20669304315853,
+   "sell": 19.698999647655114,
+   "net": -0.4923066044965836
+  },
+  {
+   "w": "AaPc5Brm7MdbujLTUdTkx8ytjK9KEKXD1ZoLKTZH6jnn",
+   "n": 2,
+   "buy": 18.82816622889768,
+   "sell": 18.918159713996037,
+   "net": -0.0899934850983577
+  },
+  {
+   "w": "U4GaKeM451yVcs6JeMirSdLQCjdpEVcf33EoXLrzkj2",
+   "n": 1,
+   "buy": 36.36814214510274,
+   "sell": 0.0,
+   "net": 36.36814214510274
+  },
+  {
+   "w": "AowTUid5daQr9EqwazF7hDm3jBTQSisv6LaHGhQL8k92",
+   "n": 1,
+   "buy": 34.06029527236194,
+   "sell": 0.0,
+   "net": 34.06029527236194
+  },
+  {
+   "w": "FtXiGQq6mg8vzLabrtBHwLcm57DRQwTnHdKMCKKzT92n",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 33.68967947464006,
+   "net": -33.68967947464006
+  },
+  {
+   "w": "3P5wRZAmojZ3KkGw6YEfwwKy8o15jn8UyLY3LLKftBtc",
+   "n": 2,
+   "buy": 16.014415158843832,
+   "sell": 16.672271606824044,
+   "net": -0.6578564479802118
+  },
+  {
+   "w": "6iXghXJsTm84xCcoCyEdsbmSZ8Bzn8rXBtFJj5TioHBj",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 30.814010112792655,
+   "net": -30.814010112792655
+  },
+  {
+   "w": "4fQooakDdJpbTUHjMjcjUb5sMYcnFxD8Pd527vfpb8zV",
+   "n": 1,
+   "buy": 30.076691292359925,
+   "sell": 0.0,
+   "net": 30.076691292359925
+  },
+  {
+   "w": "A86twEf18cHdQJaMLYTDkxevZveH4r9iD8ynUCSfsd61",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 29.67877472037234,
+   "net": -29.67877472037234
+  },
+  {
+   "w": "DMRWi5N6bxEKkhguQhoUYfLqgJiBnJnDdP7tActitSn7",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 29.5043279297309,
+   "net": -29.5043279297309
+  },
+  {
+   "w": "8UFYRS4Qvg5BnnXC993aHiuhYAdMPfUAWew6gPwMWdqU",
+   "n": 3,
+   "buy": 14.25752735617449,
+   "sell": 14.582653452942592,
+   "net": -0.325126096768102
+  },
+  {
+   "w": "2r58JtM42s2hwTahRfqHtUhBZUjz3aiGBcFaZAu3HrgP",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 27.97153884217665,
+   "net": -27.97153884217665
+  },
+  {
+   "w": "45DXb1XPtTk1HVrQAcfCyjkTRi4aveAmAnp3gH596Trs",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 27.779307183698453,
+   "net": -27.779307183698453
+  },
+  {
+   "w": "6SmqcWKkyMkL9VC76uGHvkXuUUdUmtt7fD6XQBgr5bNh",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 26.770834990370684,
+   "net": -26.770834990370684
+  },
+  {
+   "w": "A9ih2GMxgf69JfUpnzMeyXT77csqmknLFGfUpbbcujzJ",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 26.291639560356245,
+   "net": -26.291639560356245
+  },
+  {
+   "w": "DjBcGZ9WGWUrcDz5bCLs9NYVzCKGakiLS7gYcmQub53N",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 25.768613521666822,
+   "net": -25.768613521666822
+  },
+  {
+   "w": "64BCLCVheeQaYycxMeA5tip36AXUgFUdVpdsJbBdKLW8",
+   "n": 1,
+   "buy": 24.165359183355328,
+   "sell": 0.0,
+   "net": 24.165359183355328
+  },
+  {
+   "w": "pay6tTbGkT9LiJTTw3BUNL7tWj1wppKApQrz3Dtg1d2",
+   "n": 1,
+   "buy": 24.04001268634019,
+   "sell": 0.0,
+   "net": 24.04001268634019
+  },
+  {
+   "w": "JByjaa6bRUgCanUsZaGnBFueDcBrmk4ctVdhFMkCXdd3",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 22.76451843481691,
+   "net": -22.76451843481691
+  },
+  {
+   "w": "F3MsrweASYcZcAN9mg6o76hef1Xzh7P7qv6BM9acSMJP",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 22.640108967257657,
+   "net": -22.640108967257657
+  },
+  {
+   "w": "CAGrP21ya6knWd3SZvpvj4UmXQHhNgh7G2hmN6gt1h5W",
+   "n": 2,
+   "buy": 10.691980563892113,
+   "sell": 10.882546519090166,
+   "net": -0.19056595519805342
+  },
+  {
+   "w": "2tP27cAgnsLiA5RyjRRFnUe943xde8NVMT6z4M3bUCjc",
+   "n": 1,
+   "buy": 21.332863808725598,
+   "sell": 0.0,
+   "net": 21.332863808725598
+  },
+  {
+   "w": "DdowjraZvDRh2Xjz53Wj1LRMyMwcUbYz2nD8Ni6i6cKe",
+   "n": 1,
+   "buy": 21.332863551107543,
+   "sell": 0.0,
+   "net": 21.332863551107543
+  },
+  {
+   "w": "D7pcJ3wvouvzXrQNxCxXtmvdfUg25GtDGSx7mCt9vKG6",
+   "n": 1,
+   "buy": 21.332859068860092,
+   "sell": 0.0,
+   "net": 21.332859068860092
+  },
+  {
+   "w": "DUhcnj23fEnzuSAc1WiDerDk9L9RpBJUp21tiufxT7z",
+   "n": 1,
+   "buy": 21.24688163564016,
+   "sell": 0.0,
+   "net": 21.24688163564016
+  },
+  {
+   "w": "3Q4sqfNSB6KCY4KZfj68hSVpQoZPBPGQuNdxrXubZjV4",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 20.797511090956725,
+   "net": -20.797511090956725
+  },
+  {
+   "w": "8KWrFBuaefDMJoLshjvp5LKgCUipspuvZ6z1Qq4VZYH4",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 19.801980507627885,
+   "net": -19.801980507627885
+  },
+  {
+   "w": "4LeQ2gYL7rv4GBhAJu2kwetbQjbZ3cHPsEwJYwE3CGE4",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 19.658410842875206,
+   "net": -19.658410842875206
+  },
+  {
+   "w": "5MqEtLUCSPzfSeGvy6iVK6i9F8JQS4wzxKHSS6G8s8Pp",
+   "n": 4,
+   "buy": 0.0,
+   "sell": 19.23752035310727,
+   "net": -19.23752035310727
+  },
+  {
+   "w": "CXsAdUqDvpumLW9588VhZDxgtNR5GuPiyqsjn9VnaG1",
+   "n": 2,
+   "buy": 9.634537207032468,
+   "sell": 9.371624204892402,
+   "net": 0.2629130021400652
+  },
+  {
+   "w": "CjBXtfSh23wGhQim125MCvkoqQZUVJAN5rsjf8x2Dk5B",
+   "n": 2,
+   "buy": 9.634607650897427,
+   "sell": 9.153645214705822,
+   "net": 0.4809624361916054
+  },
+  {
+   "w": "9FB3vVCvz7aPEqXFSqSHu6nPBASKGy38pFSUMyKACqrf",
+   "n": 2,
+   "buy": 9.634537207032468,
+   "sell": 8.81867034373065,
+   "net": 0.8158668633018173
+  },
+  {
+   "w": "AF3Pr5dksyzpR8n3GqaZiQdjq9tQiUeTiebVv4ttre7y",
+   "n": 3,
+   "buy": 9.712369576804369,
+   "sell": 7.999651275179078,
+   "net": 1.7127183016252907
+  },
+  {
+   "w": "5hh7UE6i2BtyCvaMMadS71wFwK88JRmtRTfXkjZ3CHvF",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 17.52912014549041,
+   "net": -17.52912014549041
+  },
+  {
+   "w": "EveFik54NecvuuF7Yzn1BoiJVzkG7sRAbKy2C2R5ReBm",
+   "n": 1,
+   "buy": 17.465727885507782,
+   "sell": 0.0,
+   "net": 17.465727885507782
+  },
+  {
+   "w": "82abgG9n467jbttW6LE4RYancZKzXkZ2L3GxaCHmWhyi",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 15.721604282102026,
+   "net": -15.721604282102026
+  },
+  {
+   "w": "DWneSEaGXtg8tn5FmH6nR3jbvz9SDTVRC1Wz6gKQfdA5",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 15.631047608209963,
+   "net": -15.631047608209963
+  },
+  {
+   "w": "ETmW1BDdXJ8SnEcXm6bvwSpmA8BwuLaACgBCFe5zvhnG",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 14.328575865066727,
+   "net": -14.328575865066727
+  },
+  {
+   "w": "2m2GQeZK6dKvqeaTNMK3XprugSTmQbaZ1zgkwKWw5R6x",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 14.179900186271343,
+   "net": -14.179900186271343
+  },
+  {
+   "w": "BAnn7miHk5WM8zecP5Wf2Qz5sUukBVgi8X2GePaKEUh8",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 14.151651629746212,
+   "net": -14.151651629746212
+  },
+  {
+   "w": "3kXmGQ81EB4pDoVtBjvYV3YzMVZ6izvtrCwKiSQLr2ep",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 13.585271625297803,
+   "net": -13.585271625297803
+  },
+  {
+   "w": "12Y71zSFTm234tcC8THsWWqeTCPpLKnJK2uSjTcLgyRB",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 13.378283989918666,
+   "net": -13.378283989918666
+  },
+  {
+   "w": "Ekj27YyXdfLAsJCmCTEug3arxNGtcYi3hbPkfMGd2wc5",
+   "n": 3,
+   "buy": 4.9832689785982485,
+   "sell": 8.337963561501912,
+   "net": -3.3546945829036634
+  },
+  {
+   "w": "3A5iWLFSMhdE7zSnfxpigPPcaWS3BufFAi338uC5Xz1w",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 12.391220645611874,
+   "net": -12.391220645611874
+  },
+  {
+   "w": "95L5dxG1WEnoGe8HPTqD2QyAfwNz59iGEKqgGPhq73UV",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 12.333659306431493,
+   "net": -12.333659306431493
+  },
+  {
+   "w": "74kSvQufFd3GtmCrRxz5AZvm9maEKb7qC8PJSsBtu9oQ",
+   "n": 1,
+   "buy": 11.847323930358598,
+   "sell": 0.0,
+   "net": 11.847323930358598
+  },
+  {
+   "w": "8jM6p7ZRnum9C3x96r2Mz3wpQVMZt46z2CTgZnWyMiws",
+   "n": 2,
+   "buy": 5.92917526337701,
+   "sell": 5.692550784542136,
+   "net": 0.23662447883487392
+  },
+  {
+   "w": "7XH3sV5PqaPW3DJ55c5xC3fFNWJaY4yMBibHZpES5CXw",
+   "n": 2,
+   "buy": 5.499547468039881,
+   "sell": 5.461771700625207,
+   "net": 0.03777576741467392
+  },
+  {
+   "w": "HS1PAA3RKhFf3qqHXfcQPn2MLZtFU8SRENc1XJzueUco",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 10.894110732190994,
+   "net": -10.894110732190994
+  },
+  {
+   "w": "7Xw7qWdVcNSMuYNMcujFxXsXE1MPFp8eUtBom2vHjvuv",
+   "n": 1,
+   "buy": 10.561694308110178,
+   "sell": 0.0,
+   "net": 10.561694308110178
+  },
+  {
+   "w": "Hts9Lqgcgnv7xKPLbL7VxXP9ZkJetWQ8CtFDz4eAtyAc",
+   "n": 2,
+   "buy": 5.308747008694484,
+   "sell": 5.050029897704569,
+   "net": 0.2587171109899149
+  },
+  {
+   "w": "FuW7LEUDmtpFXg9X9LT5UgcaNPDkNVX4UPRYmWABp3CW",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 10.345540331506895,
+   "net": -10.345540331506895
+  },
+  {
+   "w": "DzmWdQnKYpLYqZPPtAXMeEdJmNrzqjUiugZU37i8yof",
+   "n": 1,
+   "buy": 10.031406989535533,
+   "sell": 0.0,
+   "net": 10.031406989535533
+  },
+  {
+   "w": "rH63PqMD5sohKdSDp1uKmN2dxHJZLq2xnmwgyN6kSLb",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 9.909991334708232,
+   "net": -9.909991334708232
+  },
+  {
+   "w": "E2btQUUyUDJhZwQZHqzcMZGKnBW98Ck363DT1UaCEorm",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 9.73199212147777,
+   "net": -9.73199212147777
+  },
+  {
+   "w": "Cym9FuokHbx4mtsZGfwbLEANwQq2f43wSsudRCdwcojV",
+   "n": 2,
+   "buy": 4.98468641427537,
+   "sell": 4.735987162918404,
+   "net": 0.24869925135696658
+  },
+  {
+   "w": "3U6EHQZ41f9jVVJWXoj1t7zH4kbcZXEJCo5kcwr7Yohb",
+   "n": 1,
+   "buy": 9.713667984461267,
+   "sell": 0.0,
+   "net": 9.713667984461267
+  },
+  {
+   "w": "4eNTW9dqXbTLzorH5uD6taGbTmLVwZ1pesmyHosiGQGe",
+   "n": 2,
+   "buy": 4.872189140232331,
+   "sell": 4.83721508509844,
+   "net": 0.03497405513389129
+  },
+  {
+   "w": "8pY1AukbuPgUE3EetyLa59rFLMimJGT94ZzbMEZcQF4w",
+   "n": 1,
+   "buy": 9.698354279665756,
+   "sell": 0.0,
+   "net": 9.698354279665756
+  },
+  {
+   "w": "7EZRZWEgk6zPkzoeTdtyPB9kLdkLVoC6BUSRH99ffFuu",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 9.030588026947546,
+   "net": -9.030588026947546
+  },
+  {
+   "w": "5XDgCHK5GrvC1vR8UEtBYQep6kYw56TVj69FmxuiMRbs",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 8.179158595844347,
+   "net": -8.179158595844347
+  },
+  {
+   "w": "ZxUsPByDhuNY4MeetDuu7gmqxqr5cQeP9d5iLoayN2k",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 7.508820327600224,
+   "net": -7.508820327600224
+  },
+  {
+   "w": "8wNwmwDPSmnWew7rM5rWP4xnohUSZwxobMuVLvQjWTKA",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 7.380656799252238,
+   "net": -7.380656799252238
+  },
+  {
+   "w": "9pU1aA67L5j3H9UkpY8KV5Znv93V4WASTwxTqy4dK5rG",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 6.624000061589185,
+   "net": -6.624000061589185
+  },
+  {
+   "w": "8E2nDAW7whqUR9evmVMoPWXXVqaNhwwz5HJJCeWRQaXh",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 6.16346381379527,
+   "net": -6.16346381379527
+  },
+  {
+   "w": "Bbj3HKzEbPv5GozHuLjYPQG3fhu1yDhyG5sW8e8R7pQD",
+   "n": 2,
+   "buy": 2.9723889644217736,
+   "sell": 3.1212454798378095,
+   "net": -0.14885651541603595
+  },
+  {
+   "w": "HfzQUJEXAGAuASQuwMnp1i6oMstK5dBbcjnB6pMhtwYM",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 5.898083490742401,
+   "net": -5.898083490742401
+  },
+  {
+   "w": "AAKyuVZQnaDZGuW4v2rDE115Cea7Zt12a6wWKSCGE7dR",
+   "n": 1,
+   "buy": 5.84460165175324,
+   "sell": 0.0,
+   "net": 5.84460165175324
+  },
+  {
+   "w": "ProCXqRcXJjoUd1RNoo28bSizAA6EEqt9wURZYPDc5u",
+   "n": 1,
+   "buy": 5.152276817793967,
+   "sell": 0.0,
+   "net": 5.152276817793967
+  },
+  {
+   "w": "AQ9mR88tEMLsW9gsufhFDb4jRiEwrsoMYuHyvj7BvFdN",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 4.8814663863548,
+   "net": -4.8814663863548
+  },
+  {
+   "w": "zbmg9d5xHtouvKtFGqASdKbHEQ4bQdJwqtQPkdvc3Ud",
+   "n": 1,
+   "buy": 4.676573498806767,
+   "sell": 0.0,
+   "net": 4.676573498806767
+  },
+  {
+   "w": "5Yz5bAC1znbHxsWfKooeDykyNwLjKA6QJKhqyr8BBtNm",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 4.025800388267529,
+   "net": -4.025800388267529
+  },
+  {
+   "w": "95X5P34bMxyCUsYaDgT73TE8eWS47RWf1xM15KLPnAUH",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 3.9830536216093755,
+   "net": -3.9830536216093755
+  },
+  {
+   "w": "HfCEsLk9WUbfN8PRyhzMExRJaevYCbWNEJR4pWHJEiQb",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 3.9213977783611838,
+   "net": -3.9213977783611838
+  },
+  {
+   "w": "C9vxhEKiKAT7rTF4emQRCCfw3boGGHW3dfqZF4DRwAfp",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 3.8542187655523223,
+   "net": -3.8542187655523223
+  },
+  {
+   "w": "3aBCzWtS8yjb8vX8ZjmqEvRsBNckANUgyeZQfgvSsXgB",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 3.747354924462559,
+   "net": -3.747354924462559
+  },
+  {
+   "w": "6kGj9GXwTRdTESc1NBALdH6wL97h39wdhwsM7eaYNXpd",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 3.6330590561335616,
+   "net": -3.6330590561335616
+  },
+  {
+   "w": "3V2P1HydgJCg4RcjKK3PQ3vhvpoh3jFbtAjBLHGvqSCs",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 3.5989997570798886,
+   "net": -3.5989997570798886
+  },
+  {
+   "w": "12PJP39sR6rNwdSxaJXF1fZSnyQwQqXExBL6QTzrifgE",
+   "n": 1,
+   "buy": 3.5616116753722253,
+   "sell": 0.0,
+   "net": 3.5616116753722253
+  },
+  {
+   "w": "EGhfLeHJRZf8cafTbe5PXkCmUjjvWbbjntQZoR3wVkrf",
+   "n": 2,
+   "buy": 1.9158260200787864,
+   "sell": 1.2083504646963212,
+   "net": 0.7074755553824652
+  },
+  {
+   "w": "BJLwxLzS8mCi4Mt1h9D9a1W6sdng1QEYtmmB3tyhEf1k",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 2.9351478630903807,
+   "net": -2.9351478630903807
+  },
+  {
+   "w": "6HRKnFDEFbWM7rNe9DxB9YbUhytD3nB6jsKup8n3XF2F",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 2.908376238750767,
+   "net": -2.908376238750767
+  },
+  {
+   "w": "R32xAccFis3YzBzGwZ1C4QkGiehLxSao7gDmErA3kjk",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 2.47175268695253,
+   "net": -2.47175268695253
+  },
+  {
+   "w": "4exXcemu9Z3AU9kccaJRUERrCMdysCzb2homvTRa9Xo7",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 2.4632648086080056,
+   "net": -2.4632648086080056
+  },
+  {
+   "w": "4pSH4D3Q6MzvxKt2vc9SvXnHVPoUEdk5TWQpcXW4WRdJ",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 2.381809473858998,
+   "net": -2.381809473858998
+  },
+  {
+   "w": "FUEL3Te8gvaohxwQMapfMTeJVHh2z1BL9fvTCcHZeYEh",
+   "n": 2,
+   "buy": 0.03871659791311272,
+   "sell": 2.3077905283807314,
+   "net": -2.2690739304676186
+  },
+  {
+   "w": "FGeZxZTRaLvD1Em3bfSFPrcRoQ6sfzQpwtdDhMnrBUB",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 2.3025095742599064,
+   "net": -2.3025095742599064
+  },
+  {
+   "w": "ADwfrwcpxPdbVw6Hi9cJ8acFPreqanjfYY7siBmJNekS",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 2.2395829192155015,
+   "net": -2.2395829192155015
+  },
+  {
+   "w": "6PFq7RLr6JywadPoCbHYWeeFa8mJEXnz5uE4dfEE7dUM",
+   "n": 2,
+   "buy": 1.1414179278627168,
+   "sell": 1.074875595331316,
+   "net": 0.06654233253140074
+  },
+  {
+   "w": "FpatYQm1HtDxsdRKb8okmecCii1rHnvicghLz292heRJ",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 2.0110665276083672,
+   "net": -2.0110665276083672
+  },
+  {
+   "w": "CxkoBcNveehmJ2vJcMbnduS9Mz6fHHjqZVv6Fed9GcJu",
+   "n": 1,
+   "buy": 1.943727909216618,
+   "sell": 0.0,
+   "net": 1.943727909216618
+  },
+  {
+   "w": "Azoxm1hBSbTiAYShsPA8134eXV44fTUXTYmcsUdTW77m",
+   "n": 1,
+   "buy": 1.9322625357575756,
+   "sell": 0.0,
+   "net": 1.9322625357575756
+  },
+  {
+   "w": "3cRDkEc66VSHWwgQkynux8cav3VS11pWCaxwvKc4QGw3",
+   "n": 1,
+   "buy": 1.8517841016595429,
+   "sell": 0.0,
+   "net": 1.8517841016595429
+  },
+  {
+   "w": "3yFJf2t3rVvBC2DM31qsjJcPyE6Sz3qRKFgJJji98XDJ",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 1.8467393861505539,
+   "net": -1.8467393861505539
+  },
+  {
+   "w": "78Bo7xxGWBEvqbh3VMKvkFG4Z63cXKSJ2LCEXAanhN7a",
+   "n": 2,
+   "buy": 1.1297460517022764,
+   "sell": 0.6964294883874219,
+   "net": 0.43331656331485446
+  },
+  {
+   "w": "CtEJA7YUhtCou5MW2Ga3tddW1ESuhatRWpCmnmz68ERQ",
+   "n": 1,
+   "buy": 1.7303321649302443,
+   "sell": 0.0,
+   "net": 1.7303321649302443
+  },
+  {
+   "w": "rLsi2DPwRLovHzLV5XYxa8B597bv8w8nX7fZHJJf8uy",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 1.6916932639432596,
+   "net": -1.6916932639432596
+  },
+  {
+   "w": "9QyptjDmuPtXkPrw2LbAcMU7Gu51j9psESttY7TD98RL",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 1.688514660684376,
+   "net": -1.688514660684376
+  },
+  {
+   "w": "HU3bsSLMoJRzREe2qakCgrFpXky6NH2xpa3AfQfh1MaG",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 1.588934973878399,
+   "net": -1.588934973878399
+  },
+  {
+   "w": "G88tjHY8sGsvGyy1u3LKM69TUNLq8hz1kBQiQcV4YL6i",
+   "n": 1,
+   "buy": 1.5537073888971464,
+   "sell": 0.0,
+   "net": 1.5537073888971464
+  },
+  {
+   "w": "C6mmVc94kpmwiFKmbz9W7awpekH5va6p2z7yWvVUH98f",
+   "n": 2,
+   "buy": 0.6344859843230156,
+   "sell": 0.6515128412224798,
+   "net": -0.01702685689946415
+  },
+  {
+   "w": "8bT4yGDHGxYaorZbNWaenUcNGPzjF4ZY4vrC3vzoEtAb",
+   "n": 1,
+   "buy": 1.2755511479896882,
+   "sell": 0.0,
+   "net": 1.2755511479896882
+  },
+  {
+   "w": "121ihCvmw8fKeQcmaXK4uSZ9Q53fSKe9YeqHrF6hhzdc",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 1.039700885473087,
+   "net": -1.039700885473087
+  },
+  {
+   "w": "GxDC9e7SP9mzhDo4re5HbpLa2RW7gB9DtmThx4i4pXSq",
+   "n": 3,
+   "buy": 0.8986966571414028,
+   "sell": 0.07909101589380953,
+   "net": 0.8196056412475933
+  },
+  {
+   "w": "DB6GQTiFqZa7nJDW2Evj4QF3joBeQRPVVhfhf16UL6mL",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.7244018266319597,
+   "net": -0.7244018266319597
+  },
+  {
+   "w": "EqpJ953xHypdNSAHeWvr12QoHnr9QhddoXY737gT3Lp",
+   "n": 1,
+   "buy": 0.5975164237037035,
+   "sell": 0.0,
+   "net": 0.5975164237037035
+  },
+  {
+   "w": "2zEBCzKb3SwLSL5HkGHb498thTuzJihnNKdo9W2bHFr3",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.5765226854659974,
+   "net": -0.5765226854659974
+  },
+  {
+   "w": "BZbqHUrT7cnF3iJupVzUhjcrYfWCDiBpFSG84BiDWbDf",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.568986653353862,
+   "net": -0.568986653353862
+  },
+  {
+   "w": "FLJaiEgE1tJ3ZHtSY4DrK3z3q2ptbaH2hyVk7x5CTBXx",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.5048258205180076,
+   "net": -0.5048258205180076
+  },
+  {
+   "w": "HAWK3BVnwptKRFYfVoVGhBc2TYxpyG9jmAbkHeW9tyKE",
+   "n": 2,
+   "buy": 0.0,
+   "sell": 0.47655012766393234,
+   "net": -0.47655012766393234
+  },
+  {
+   "w": "DcQNaByvstRZCERvb9UJHgHiQe8YX2FMdPptM86psQyz",
+   "n": 1,
+   "buy": 0.46361546367136414,
+   "sell": 0.0,
+   "net": 0.46361546367136414
+  },
+  {
+   "w": "AKiQ6v5DsWTNuTLZAFxK1gtwv8G3dysthfvEqGvgLrTA",
+   "n": 2,
+   "buy": 0.23458713287622027,
+   "sell": 0.2203068790087498,
+   "net": 0.014280253867470477
+  },
+  {
+   "w": "HiwbTg99DvtBGnLQdi8B13qFhGbxcPH3V4RWZZwSJQ3c",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.384182495791313,
+   "net": -0.384182495791313
+  },
+  {
+   "w": "8anubgcz49885zxcYqgMjMJoddhdxy9evySW2UpbQMdW",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.2948840987641993,
+   "net": -0.2948840987641993
+  },
+  {
+   "w": "9fcMp3GNGnd3qTn4krE399UYEsUNfkVsXQvo8np47NGW",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.29384957850528315,
+   "net": -0.29384957850528315
+  },
+  {
+   "w": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+   "n": 18,
+   "buy": 0.13912817873653024,
+   "sell": 0.0,
+   "net": 0.13912817873653024
+  },
+  {
+   "w": "3MshHo1CqCzpTUwQmPBhLdiGMozGnoY1c2zsWdHZsuMU",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.12152456387482485,
+   "net": -0.12152456387482485
+  },
+  {
+   "w": "3KV1AG2r9wqXFcQiadb8mNMJLCXcGkbQ51ARRSuWymVE",
+   "n": 2,
+   "buy": 0.0486479193013329,
+   "sell": 0.05094803702131178,
+   "net": -0.0023001177199788794
+  },
+  {
+   "w": "3h2tegbEYGffar8H6LpGS2ehE8vxFCn3htdYdvw5tWWF",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.08653425604692729,
+   "net": -0.08653425604692729
+  },
+  {
+   "w": "C8eFakR7i7LU83yd2oLrnRh8mBUsGM1n3G86EKipNNMt",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.0811946254967479,
+   "net": -0.0811946254967479
+  },
+  {
+   "w": "Dfpya2h37JXMo9NeUy3KB2EMseya7dpKxzTS3bAJZ74",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.0787207351756773,
+   "net": -0.0787207351756773
+  },
+  {
+   "w": "3gmp9PWq3q4WWriTCk47BQTW3jAk6NPEteXBvaakM71q",
+   "n": 1,
+   "buy": 0.06783578684568449,
+   "sell": 0.0,
+   "net": 0.06783578684568449
+  },
+  {
+   "w": "FFhMPr27zkhh38doV5H5LoqLqCLqkNSvgDKp1ic93YF6",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.06285136776119687,
+   "net": -0.06285136776119687
+  },
+  {
+   "w": "BsMrDCty85pwAGEnUyRhD7NPFhDaVSQTv61LVWcNMAEX",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.0627408870112118,
+   "net": -0.0627408870112118
+  },
+  {
+   "w": "37Xk6krsEGnmmGyDWZjFfwqe1NPpz3jtYLbWppG4yTzg",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.035666420630358645,
+   "net": -0.035666420630358645
+  },
+  {
+   "w": "3byvsa7YHf9iqN37iguJN4jWZMtpvBL1SL9XCJvGuVwT",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.03228802798780422,
+   "net": -0.03228802798780422
+  },
+  {
+   "w": "CdeT4gc7dT5JVpVszWioFbugqS2E5SbmbZHDWiRjyvam",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.02957574121112041,
+   "net": -0.02957574121112041
+  },
+  {
+   "w": "2kv6b4wmbF2ausJ3spLDzpNCei64NzCkHKQhyL2sQgWu",
+   "n": 1,
+   "buy": 0.0,
+   "sell": 0.027229276415495333,
+   "net": -0.027229276415495333
+  },
+  {
+   "w": "4vNu9iksgbn8Aa8kE55Kbvg7FDX9tcxZds5fCh56zJdh",
+   "n": 2,
+   "buy": 0.0006939335290114102,
+   "sell": 0.0006495267045504151,
+   "net": 4.4406824460995115e-05
+  }
+ ],
+ "distribution": {
+  "median": 21.80422164353598,
+  "mean": 102.92637603036565,
+  "max": 1434.030441769104,
+  "under1": 60,
+  "top_share": {
+   "1": 12.9,
+   "5": 46.7,
+   "10": 67.0,
+   "25": 86.5,
+   "50": 96.8
+  },
+  "buckets": [
+   {
+    "lo": 0.0001,
+    "hi": 0.001,
+    "n": 2
+   },
+   {
+    "lo": 0.001,
+    "hi": 0.01,
+    "n": 13
+   },
+   {
+    "lo": 0.01,
+    "hi": 0.1,
+    "n": 19
+   },
+   {
+    "lo": 0.1,
+    "hi": 1,
+    "n": 26
+   },
+   {
+    "lo": 1,
+    "hi": 10,
+    "n": 88
+   },
+   {
+    "lo": 10,
+    "hi": 100,
+    "n": 180
+   },
+   {
+    "lo": 100,
+    "hi": 1000,
+    "n": 76
+   },
+   {
+    "lo": 1000,
+    "hi": 10000,
+    "n": 9
+   }
+  ]
+ },
+ "concentration": {
+  "wallets": 226,
+  "once": 126,
+  "top": {
+   "1": 7.7,
+   "5": 30.6,
+   "10": 48.7,
+   "25": 73.9,
+   "50": 87.9
+  }
+ },
+ "eyebrow": "MADA / SOLANA / EVERY FIGURE FETCHED, NONE MODELLED",
+ "badge": "OBSERVED",
+ "handle": "@madaearly",
+ "footer_right": "GECKOTERMINAL /pools /trades /ohlcv + DEXSCREENER /tokens  \u00b7  WINDOW TRIMMED TO WHERE ALL POOLS ARE COVERED  \u00b7  READ-ONLY",
+ "punch": [
+  {
+   "text": "126 of 226 wallets traded once. Ten carry 48.7%.",
+   "size": 22,
+   "color": "BRIGHT"
+  },
+  {
+   "text": "Every address here can be looked up, and the window was cut to where the sample is honest.",
+   "size": 14,
+   "color": "SECOND"
+  }
+ ]
+}

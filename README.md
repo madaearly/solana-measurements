@@ -19,6 +19,7 @@ The pre-registered experiment lives in its own repository:
 | [`tickerwash-2026-09`](tickerwash-2026-09) | 2026-09-14 | 31 pumpswap pools named after real companies | $1,850,861,290 claimed in 24h against reserves of millionths of a cent; round-trips carry a median 99.8% of sampled volume |
 | [`jitosol-2026-09`](jitosol-2026-09) | 2026-09-15 | jitoSOL — the control | +5.74% a year in SOL terms, delivered as advertised; worth $26.08 on a thousand dollars |
 | [`xquote-2026-09`](xquote-2026-09) | 2026-09-15 | eleven memecoins priced in xSOL | over 116 days SOL rose 19.6% and xSOL 1.4% — 7.1% of the gain reached the levered holder; the hypothesis that the quote currency ate these positions did not survive |
+| [`xsol-desk-2026-09`](xsol-desk-2026-09) | 2026-09-16 | xSOL — 413 trades by wallet | 126 of 226 wallets traded once and ten hold 48.7% of volume; a twenty-hour trend in the same data was an artefact of uneven pool coverage and was withdrawn |
 
 ## How to read anything in here
 
