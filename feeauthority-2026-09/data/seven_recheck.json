@@ -1,0 +1,51 @@
+{
+ "AGi2s9zPRPHs3zEDPhPTroumTEXK5ufymYSfEFndCSSW": {
+  "label": "live-1",
+  "symbol": "LEVERCAT",
+  "fee_bps": 300,
+  "fee_authority": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD",
+  "withdraw": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD"
+ },
+ "D4MbZpRZqv3rSffBMmSrEkdBosWs1mqaJ4ATwvaoWkvj": {
+  "label": "live-2",
+  "symbol": "LEVERDOG",
+  "fee_bps": 300,
+  "fee_authority": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD",
+  "withdraw": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD"
+ },
+ "365mw7xLoo9oB8ooemnga39bEqyjYtKDrSdJZcKMxCfx": {
+  "label": "SLO",
+  "symbol": "SLO",
+  "fee_bps": 300,
+  "fee_authority": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD",
+  "withdraw": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD"
+ },
+ "CuTcumut3p65cBqBpeksdLr3YJQZCw9Np3jcoSeF5F1Y": {
+  "label": "live-4",
+  "symbol": "LAMPORT",
+  "fee_bps": 100,
+  "fee_authority": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD",
+  "withdraw": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD"
+ },
+ "8JVtwRnDiDmjV2pSRTmqzPtXZyNdgUkpijrufgYJRARA": {
+  "label": "frozen-1",
+  "symbol": "LOOOONG",
+  "fee_bps": 300,
+  "fee_authority": null,
+  "withdraw": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD"
+ },
+ "Dc9cjZmtpagygSucvZt1Kier2erfMQLwNu8rwXaTEayD": {
+  "label": "SOLDIERS",
+  "symbol": "SOLDIERS",
+  "fee_bps": 300,
+  "fee_authority": null,
+  "withdraw": "5KXDF6QnqhBj72hDtJNkkpFaQVUfbFXNybMsp3DiK6tD"
+ },
+ "5BBi9mf9ihtCnpagv7fCKQUoh6pPDxkr5FVqF53pH4KW": {
+  "label": "LEVERPUP",
+  "symbol": null,
+  "fee_bps": null,
+  "fee_authority": null,
+  "withdraw": null
+ }
+}

@@ -1,0 +1,21 @@
+sample 3,000 of a population of 18,819 Token-2022 mints
+
+who may change the fee       mints    share   95% interval
+  program WLHv2U             2,043   68.10%   66.41% - 69.74%
+  null - frozen                648   21.60%   20.16% - 23.11%
+  keypair 5KXDF6               265    8.83%    7.87% -  9.90%
+  no transfer fee               44    1.47%    1.09% -  1.96%
+
+extrapolated to the whole population of 18,819:
+  mints whose fee rate one keypair may change: 1,662   (1,481 - 1,863)
+
+fee rates across every mint that has one:
+    100 bps   1,433  (48.5%)
+    300 bps   1,523  (51.5%)
+
+fee rates among the 265 the keypair controls:
+    100 bps     161  (60.8%)
+    300 bps     104  (39.2%)
+
+headline: 89.7% of these mints cannot have their rate changed by any private key.
+          8.8% can, and it is the same key on all of them.
