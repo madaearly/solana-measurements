@@ -21,6 +21,7 @@ The pre-registered experiment lives in its own repository:
 | [`xquote-2026-09`](xquote-2026-09) | 2026-09-15 | eleven memecoins priced in xSOL | over 116 days SOL rose 19.6% and xSOL 1.4% — 7.1% of the gain reached the levered holder; the hypothesis that the quote currency ate these positions did not survive |
 | [`xsol-desk-2026-09`](xsol-desk-2026-09) | 2026-09-16 | xSOL — 413 trades by wallet | 126 of 226 wallets traded once and ten hold 48.7% of volume; a twenty-hour trend in the same data was an artefact of uneven pool coverage and was withdrawn |
 | [`feeauthority-2026-09`](feeauthority-2026-09) | 2026-09-19 | who may change a Token-2022 transfer fee, 3,000 mints sampled | 89.7% cannot be changed by any private key; the 8.83% that can are all under one keypair, and no other private key appeared in the field at all |
+| [`perpoi-2026-09`](perpoi-2026-09) | 2026-09-21 | real-world-asset perps, read from the venues | the claim of $3.96bn holds; one venue is 97.9% of it, and six venues hold 97 markets with zero open interest and zero volume between them |
 
 ## How to read anything in here
 
