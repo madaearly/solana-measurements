@@ -1,0 +1,33 @@
+HYPERLIQUID CORE      234 markets  $13,837,400,406
+  tokenised gold PAXG $20,334,433 = 0.147% — the only real-world asset in the core list
+  SPX marks at $0.5161 — SPX6900, a memecoin, not the index
+
+BUILDER-DEPLOYED VENUES ON THE SAME CHAIN
+  XYZ                      $  3,873,867,536   97.9%   108/123 markets carry any
+  EntropyIO                $     57,939,888    1.5%     8/10 markets carry any
+  Paragon                  $     18,363,030    0.5%    27/36 markets carry any
+  Markets By Kinetiq       $      6,575,109    0.2%     4/24 markets carry any
+  Felix Exchange           $              0    0.0%     0/16 markets carry any
+  Ventuals                 $              0    0.0%     0/15 markets carry any
+  HyENA                    $              0    0.0%     0/25 markets carry any
+  Markets by Kinetiq       $              0    0.0%     0/23 markets carry any
+  ABCDEx                   $              0    0.0%     0/1 markets carry any
+  dreamcash                $              0    0.0%     0/17 markets carry any
+  TOTAL                    $  3,956,745,563
+
+EMPTY: 6 venues, 97 markets, open interest 0, 24h volume 0.00
+  Felix Exchange           TSLA NVDA CRCL COIN XMR GOLD SILVER OIL GAS
+  Ventuals                 SPACEX OPENAI ANTHROPIC MAG7 SEMIS ROBOT INFOTECH NUCLEAR DEFENSE
+  HyENA                    BTC ETH HYPE SOL LIT ZEC XRP LIGHTER BNB
+  Markets by Kinetiq       US500 BABA EUR USBOND SMALL2000 USTECH USENERGY USOIL TSLA
+  ABCDEx                   USA500
+  dreamcash                USA500 TSLA NVDA HOOD GOOGL INTC AMZN MSFT META
+
+DEFILLAMA  headline $16,430,331,184  sum of 129 protocols $20,772,007,072  gap $4,341,675,888
+  Derivatives                  $ 14,621,699,345
+  Interface                    $  4,015,080,225
+  Prediction Market            $  1,951,578,267
+  Interest Rate Derivatives    $    183,649,235
+  Synthetics                   $              0
+
+  reporting zero: 36 of 129

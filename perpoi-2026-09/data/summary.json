@@ -1,0 +1,42 @@
+{
+ "captured": "2026-09-21",
+ "claim": {
+  "source": "@CryptoRank_io 2101997566728503408, 2026-09-21 11:30 UTC, 15,261 views",
+  "crypto_oi_perp_dex": 19000000000.0,
+  "total_oi": 25000000000.0,
+  "rwa_share_now": 0.24,
+  "rwa_share_start_2026": 0.06
+ },
+ "defillama": {
+  "headline_total24h": 16430331184,
+  "sum_of_protocols": 20772007072,
+  "gap": 4341675888,
+  "protocols": 129,
+  "reporting_zero": 36,
+  "by_category": {
+   "Derivatives": 14621699345.0,
+   "Interface": 4015080225.0,
+   "Prediction Market": 1951578267.0,
+   "Interest Rate Derivatives": 183649235.0,
+   "Synthetics": 0.0
+  }
+ },
+ "hyperliquid_direct": {
+  "markets": 234,
+  "summed_oi_usd": 13837400405.918118,
+  "paxg_oi_usd": 20334432.632312004,
+  "paxg_share": 0.001469526936838163,
+  "spx_markpx": 0.51606,
+  "spx_note": "marks at $0.52 \u2014 SPX6900, a memecoin, not the index"
+ },
+ "rwa_venues_found": [
+  {
+   "name": "Ostium",
+   "oi": 6348778
+  },
+  {
+   "name": "Ondo Perps",
+   "oi": 90433339
+  }
+ ]
+}
